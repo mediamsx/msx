@@ -7,9 +7,9 @@
     {
       "items": [
         {
-          "type": "space",
-          "layout": "4,0,4,2",
-          "offset": "0,-0.45,0,0",
+   "type": "space",
+          "layout": "4.5,0,3,1.8",
+          "offset": "0,-0.25,0,0",
           "image": "https://i.postimg.cc/QdJBL19x/logo-vertical.png"
         },
 
