@@ -18,7 +18,7 @@
           "layout": "2,1,1,1",
           "offset": "0.2,0.4,0.2,0.2",
           "image": "https://i.postimg.cc/Px9JbMc6/DRM-Play.png",
-          "action": "link:https://drm-play.com"
+          "action": "link:http://ott.drm-play.com"
         },
         {
           "type": "space",
@@ -33,7 +33,7 @@
           "layout": "3,1,1,1",
           "offset": "0.8,0.4,0.2,0.2",
           "image": "https://i.postimg.cc/1XFtvqhM/OTT-Play.png",
-          "action": "link:https://ott-play.com"
+          "action": "link:http://ott-play.com/f/"
         },
         {
           "type": "space",
@@ -48,7 +48,7 @@
           "layout": "5,1,1,1",
           "offset": "0.4,0.4,0.2,0.2",
           "image": "https://i.postimg.cc/gjhJgZFD/OTT-Play-Foss.png",
-          "action": "link:https://ottp.eu.org"
+          "action": "link:http://ott.prog4food.eu.org/f/"
         },
         {
           "type": "space",
@@ -63,7 +63,7 @@
           "layout": "7,1,1,1",
           "offset": "0.0,0.4,0.2,0.2",
           "image": "https://i.postimg.cc/j2f5M70k/Zona.png",
-          "action": "link:https://m.zona.ms"
+          "action": "link:https://msx.zona.ms"
         },
         {
           "type": "space",
@@ -78,7 +78,7 @@
           "layout": "8,1,1,1",
           "offset": "0.6,0.4,0.2,0.2",
           "image": "https://i.postimg.cc/2yW60ZRx/Lampa.png",
-          "action": "link:https://lampa.mx"
+          "action": "link:http://lampa.mx"
         },
         {
           "type": "space",
@@ -93,7 +93,7 @@
           "layout": "2,2,1,1",
           "offset": "0.2,0.88,0.2,0.2",
           "image": "https://i.postimg.cc/TwF1jcSC/Atodo.png",
-          "action": "link:https://atodo.site"
+          "action": "menu:request:interaction:menu@http://atodo.fun/fun.html"
         },
         {
           "type": "space",
@@ -108,7 +108,7 @@
           "layout": "3,2,1,1",
           "offset": "0.8,0.88,0.2,0.2",
           "image": "https://i.postimg.cc/BbF6mK95/Gets-TV.png",
-          "action": "link:https://getstv.com"
+          "action": "panel:http://lg.getstv.ru/msx/msx.json"
         },
         {
           "type": "space",
@@ -123,7 +123,7 @@
           "layout": "5,2,1,1",
           "offset": "0.4,0.88,0.2,0.2",
           "image": "https://i.postimg.cc/Jnv03Qgd/Filmix.png",
-          "action": "link:https://filmix.app"
+          "action": "link:http://filmix.tv/"
         },
         {
           "type": "space",
@@ -153,7 +153,7 @@
           "layout": "8,2,1,1",
           "offset": "0.6,0.88,0.2,0.2",
           "image": "https://i.postimg.cc/hj6v80w2/d-reel.png",
-          "action": "link:https://deeplex.net"
+          "action": "link:http://smart.deeplex.cc/"
         },
         {
           "type": "space",
@@ -168,7 +168,7 @@
           "layout": "2,4,1,1",
           "offset": "0.2,0.36,0.2,0.2",
           "image": "https://i.postimg.cc/Jnv03Qg2/f-letter.png",
-          "action": "link:https://forkplayer.tv"
+          "action": "link:http://browser.appfxml.com/"
         },
         {
           "type": "space",
@@ -183,7 +183,7 @@
           "layout": "3,4,1,1",
           "offset": "0.8,0.36,0.2,0.2",
           "image": "https://i.postimg.cc/d3C15yP4/ott-player.png",
-          "action": "link:https://ottplayer.tv"
+          "action": "link:http://widget.ottplayer.tv"
         },
         {
           "type": "space",
@@ -198,7 +198,7 @@
           "layout": "5,4,1,1",
           "offset": "0.4,0.36,0.2,0.2",
           "image": "https://i.postimg.cc/TwF1jcS7/Akter-Black.png",
-          "action": "link:https://akter.black"
+          "action": "link:http://abvidaa.ru/"
         },
         {
           "type": "space",
@@ -213,7 +213,7 @@
           "layout": "7,4,1,1",
           "offset": "0.0,0.36,0.2,0.2",
           "image": "https://i.postimg.cc/J0XnpkVc/Lampa-Lite.png",
-          "action": "link:https://lite.lampa.mx"
+         "action": "link:http://lampa.land"
         },
         {
           "type": "space",
@@ -228,7 +228,7 @@
           "layout": "8,4,1,1",
           "offset": "0.6,0.36,0.2,0.2",
           "image": "https://i.postimg.cc/BbF6mK9Y/youtube-kids.png",
-          "action": "link:https://www.youtubekids.com"
+         "action": "link:https://www.youtube.com/tv/kids"
         },
         {
           "type": "space",
