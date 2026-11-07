@@ -17,7 +17,7 @@
           "id": "drm-play",
           "layout": "2,1,1,1",
           "offset": "0.2,0.4,0.2,0.2",
-          "image": "https://i.postimg.cc/Px9JbMc6/DRM-Play.png",
+          "image": "https://github.com/serginho180383/msx/blob/main/Logo/DRM-Play.png",
           "action": "link:http://ott.drm-play.com"
         },
         {
