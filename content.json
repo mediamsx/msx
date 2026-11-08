@@ -47,7 +47,7 @@
           "id": "ott-foss",
           "layout": "5,1,1,1",
           "offset": "0.4,0.4,0.2,0.2",
-          "image": "https://i.postimg.cc/9Xs70tYD/ott-play-foss.png",
+          "image": "https://i.postimg.cc/02qY51vx/foss.png",
           "action": "link:http://ott.prog4food.eu.org/f/"
         },
         {
@@ -167,7 +167,7 @@
           "id": "forkplayer",
           "layout": "2,4,1,1",
           "offset": "0.2,0.36,0.2,0.2",
-          "image": "https://i.postimg.cc/kMKFKgMN/forkplayer1.png",
+          "image": "https://i.postimg.cc/cJ7TZ1gs/forkplayer2.png",
           "action": "link:http://browser.appfxml.com/"
         },
         {
