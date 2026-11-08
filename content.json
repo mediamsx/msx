@@ -17,7 +17,7 @@
           "id": "drm-play",
           "layout": "2,1,1,1",
           "offset": "0.2,0.4,0.2,0.2",
-          "image": "https://i.postimg.cc/G25sTwG7/DRM-Play.png",
+          "image": "https://i.postimg.cc/pr5R3jmY/drm-play.png",
           "action": "link:http://ott.drm-play.com"
         },
         {
@@ -32,7 +32,7 @@
           "id": "ott-play",
           "layout": "3,1,1,1",
           "offset": "0.8,0.4,0.2,0.2",
-          "image": "https://i.postimg.cc/hj57QWTN/OTT-Play.png",
+          "image": "https://i.postimg.cc/BQD1KLmQ/ott-play.png",
           "action": "link:http://ott-play.com/f/"
         },
         {
@@ -47,7 +47,7 @@
           "id": "ott-foss",
           "layout": "5,1,1,1",
           "offset": "0.4,0.4,0.2,0.2",
-          "image": "https://i.postimg.cc/ydbS34ct/OTT-Play-Foss.png",
+          "image": "https://i.postimg.cc/9Xs70tYD/ott-play-foss.png",
           "action": "link:http://ott.prog4food.eu.org/f/"
         },
         {
@@ -62,7 +62,7 @@
           "id": "zona",
           "layout": "7,1,1,1",
           "offset": "0.0,0.4,0.2,0.2",
-          "image": "https://i.postimg.cc/tJnnhSNS/Zona.png",
+          "image": "https://i.postimg.cc/0ysKdk4D/zona.png",
           "action": "link:https://msx.zona.ms"
         },
         {
@@ -77,7 +77,7 @@
           "id": "lampa",
           "layout": "8,1,1,1",
           "offset": "0.6,0.4,0.2,0.2",
-          "image": "https://i.postimg.cc/xC4bNDM7/Lampa.png",
+          "image": "https://i.postimg.cc/XNtCqckJ/lampa.png",
           "action": "link:http://lampa.mx"
         },
         {
@@ -92,7 +92,7 @@
           "id": "atodo",
           "layout": "2,2,1,1",
           "offset": "0.2,0.88,0.2,0.2",
-          "image": "https://i.postimg.cc/mD5F1fCm/Atodo.png",
+          "image": "https://i.postimg.cc/brSp4nZT/atodo.png",
           "action": "menu:request:interaction:menu@http://atodo.fun/fun.html"
         },
         {
@@ -107,7 +107,7 @@
           "id": "getstv",
           "layout": "3,2,1,1",
           "offset": "0.8,0.88,0.2,0.2",
-          "image": "https://i.postimg.cc/rmPtRXxY/Gets-TV.png",
+          "image": "https://i.postimg.cc/nVXmnw77/gets-tv.png",
           "action": "panel:http://lg.getstv.ru/msx/msx.json"
         },
         {
@@ -122,7 +122,7 @@
           "id": "filmix",
           "layout": "5,2,1,1",
           "offset": "0.4,0.88,0.2,0.2",
-          "image": "https://i.postimg.cc/3RcD05mf/Filmix.png",
+          "image": "https://i.postimg.cc/8k7vTnW9/filmix-smart.png",
           "action": "link:http://filmix.tv/"
         },
         {
@@ -137,7 +137,7 @@
           "id": "youtube",
           "layout": "7,2,1,1",
           "offset": "0.0,0.88,0.2,0.2",
-          "image": "https://i.postimg.cc/brSSQC93/youtube.png",
+          "image": "https://i.postimg.cc/5NvFCYs8/youtube.png",
           "action": "link:https://www.youtube.com/tv"
         },
         {
@@ -152,7 +152,7 @@
           "id": "deeplex",
           "layout": "8,2,1,1",
           "offset": "0.6,0.88,0.2,0.2",
-          "image": "https://i.postimg.cc/fLr0SnmB/Deeplex.png",
+          "image": "https://i.postimg.cc/fySD1dVH/deeplex.png",
           "action": "link:http://smart.deeplex.cc/"
         },
         {
@@ -167,7 +167,7 @@
           "id": "forkplayer",
           "layout": "2,4,1,1",
           "offset": "0.2,0.36,0.2,0.2",
-          "image": "https://i.postimg.cc/XJzyBSdP/Forkplayer.png",
+          "image": "https://i.postimg.cc/59DCyqS9/forkplayer.png",
           "action": "link:http://browser.appfxml.com/"
         },
         {
@@ -182,7 +182,7 @@
           "id": "ottplayer",
           "layout": "3,4,1,1",
           "offset": "0.8,0.36,0.2,0.2",
-          "image": "https://i.postimg.cc/qR5C6Vy9/ott-player.png",
+          "image": "https://i.postimg.cc/WbrJkF5Z/ott-player.png",
           "action": "link:http://widget.ottplayer.tv"
         },
         {
@@ -197,7 +197,7 @@
           "id": "akter",
           "layout": "5,4,1,1",
           "offset": "0.4,0.36,0.2,0.2",
-          "image": "https://i.postimg.cc/wMRgnN1L/akter-black.png",
+          "image": "https://i.postimg.cc/CMbqZnP4/akter-black.png",
           "action": "link:http://abvidaa.ru/"
         },
         {
@@ -212,7 +212,7 @@
           "id": "lampa-lite",
           "layout": "7,4,1,1",
           "offset": "0.0,0.36,0.2,0.2",
-          "image": "https://i.postimg.cc/nzPQ9bBP/Lampa-Lite.png",
+          "image": "https://i.postimg.cc/fWVdMgXv/lampa-lite.png",
          "action": "link:http://lampa.land"
         },
         {
@@ -227,7 +227,7 @@
           "id": "youtube-kids",
           "layout": "8,4,1,1",
           "offset": "0.6,0.36,0.2,0.2",
-          "image": "https://i.postimg.cc/8cffhKmy/youtube-kids.png",
+          "image": "https://i.postimg.cc/gkR6ZXgy/youtube-kids.png",
          "action": "link:https://www.youtube.com/tv/kids"
         },
         {
