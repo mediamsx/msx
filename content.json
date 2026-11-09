@@ -164,33 +164,33 @@
           "alignment": "center"
         },
         {
-          "id": "new-app-1",
+          "id": "lampa-lite",
           "layout": "6,3,1,1",
           "offset": "0.4,0.36,0.2,0.2",
-          "image": "https://i.postimg.cc/ВАШ_ХЭШ/icon1.png",
-          "action": "link:http://example.com/1"
+          "image": "https://i.postimg.cc/fWVdMgXv/lampa-lite.png",
+          "action": "link:http://lampa.land"
         },
         {
           "type": "space",
           "layout": "6,4,2,1",
           "offset": "0.2,0.56,-0.4,-0.7",
           "color": "rgba(0,0,0,0)",
-          "title": "NEW APP 1",
+          "title": "LAMPA-LITE",
           "alignment": "center"
         },
         {
-          "id": "new-app-2",
+          "id": "uakino",
           "layout": "6,3,1,1",
           "offset": "0.6,0.36,0.2,0.2",
-          "image": "https://i.postimg.cc/ВАШ_ХЭШ/icon2.png",
-          "action": "link:http://example.com/2"
+          "image": "https://i.postimg.cc/DwNsbRXb/image.png",
+          "action": "link:http://uakino.ax"
         },
         {
           "type": "space",
           "layout": "6,5,2,1",
           "offset": "0.4,0.56,-0.4,-0.7",
           "color": "rgba(0,0,0,0)",
-          "title": "NEW APP 2",
+          "title": "UA KINO",
           "alignment": "center"
         },
         {
