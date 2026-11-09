@@ -209,10 +209,10 @@
           "alignment": "center"
         },
         {
-          "id": "lampa-lite",
+          "id": "lift",
           "layout": "7,4,1,1",
           "offset": "0.0,0.36,0.2,0.2",
-          "image": "https://i.postimg.cc/fWVdMgXv/lampa-lite.png",
+          "image": "https://i.postimg.cc/Bn91C2vm/lift.png",
          "action": "link:http://lift3.ws"
         },
         {
@@ -220,7 +220,7 @@
           "layout": "6,5,2,1",
           "offset": "0.8,0.56,-0.4,-0.7",
           "color": "rgba(0,0,0,0)",
-          "title": "LAMPA LITE",
+          "title": "LIFT",
           "alignment": "center"
         },
         {
