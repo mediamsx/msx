@@ -32,7 +32,7 @@
           "id": "ott-play",
           "layout": "3,1,1,1",
           "offset": "0.8,0.4,0.2,0.2",
-          "image": "https://i.postimg.cc/BQD1KLmQ/ott-play.png",
+          "image": "https://i.postimg.cc/yxqCg61V/ott-play.png",
           "action": "link:http://ott-play.com/f/"
         },
         {
@@ -47,7 +47,7 @@
           "id": "ott-foss",
           "layout": "5,1,1,1",
           "offset": "0.4,0.4,0.2,0.2",
-          "image": "https://i.postimg.cc/02qY51vx/foss.png",
+          "image": "https://i.postimg.cc/rs620yVt/foss.png",
           "action": "link:http://ott.prog4food.eu.org/f/"
         },
         {
@@ -164,18 +164,18 @@
           "alignment": "center"
         },
         {
-          "id": "forkplayer",
+          "id": "uakino",
           "layout": "2,4,1,1",
           "offset": "0.2,0.36,0.2,0.2",
-          "image": "https://i.postimg.cc/jdLDr8wC/fork4.png",
-          "action": "link:http://browser.appfxml.com/"
+          "image": "https://i.postimg.cc/DwNsbRXb/image.png",
+          "action": "link:http://uakino.ax"
         },
         {
           "type": "space",
           "layout": "2,5,2,1",
           "offset": "0.0,0.56,-0.4,-0.7",
           "color": "rgba(0,0,0,0)",
-          "title": "FORKPLAYER",
+          "title": "UA KINO",
           "alignment": "center"
         },
         {
