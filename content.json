@@ -164,6 +164,36 @@
           "alignment": "center"
         },
         {
+          "id": "new-app-1",
+          "layout": "6,3,1,1",
+          "offset": "0.4,0.36,0.2,0.2",
+          "image": "https://i.postimg.cc/ВАШ_ХЭШ/icon1.png",
+          "action": "link:http://example.com/1"
+        },
+        {
+          "type": "space",
+          "layout": "6,4,2,1",
+          "offset": "0.2,0.56,-0.4,-0.7",
+          "color": "rgba(0,0,0,0)",
+          "title": "NEW APP 1",
+          "alignment": "center"
+        },
+        {
+          "id": "new-app-2",
+          "layout": "6,3,1,1",
+          "offset": "0.6,0.36,0.2,0.2",
+          "image": "https://i.postimg.cc/ВАШ_ХЭШ/icon2.png",
+          "action": "link:http://example.com/2"
+        },
+        {
+          "type": "space",
+          "layout": "6,5,2,1",
+          "offset": "0.4,0.56,-0.4,-0.7",
+          "color": "rgba(0,0,0,0)",
+          "title": "NEW APP 2",
+          "alignment": "center"
+        },
+        {
           "id": "forkplayer",
           "layout": "2,4,1,1",
           "offset": "0.2,0.36,0.2,0.2",
@@ -213,7 +243,7 @@
           "layout": "7,4,1,1",
           "offset": "0.0,0.36,0.2,0.2",
           "image": "https://i.postimg.cc/Bn91C2vm/lift.png",
-         "action": "link:http://lift3.ws"
+          "action": "link:http://lift3.ws"
         },
         {
           "type": "space",
@@ -228,7 +258,7 @@
           "layout": "8,4,1,1",
           "offset": "0.6,0.36,0.2,0.2",
           "image": "https://i.postimg.cc/gkR6ZXgy/youtube-kids.png",
-         "action": "link:https://www.youtube.com/tv/kids"
+          "action": "link:https://www.youtube.com/tv/kids"
         },
         {
           "type": "space",
