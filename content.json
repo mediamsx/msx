@@ -18,7 +18,8 @@
           "id": "drm-play",
           "layout": "2,1,1,1",
           "offset": "0.2,0.4,0.2,0.2",
-          "image": "https://i.postimg.cc/fWvTGqYq/drm-play.png",
+          "color": "rgba(0,0,0,0)",
+          "image": "https://i.postimg.cc/63V789gy/drm-play.png",
           "action": "link:http://ott.drm-play.com"
         },
         {
