@@ -1,141 +1,142 @@
 {
   "name": "MediaBox Portal",
-  "version": "1.6.0",
+  "version": "1.8.0",
   "type": "pages",
+  "grid": "8,5",
   "background": "https://i.postimg.cc/R0Smdtd5/background.jpg",
   "pages": [
     {
       "items": [
         {
           "type": "space",
-          "layout": "2,0,8,2",
-          "offset": "0,0,0,0",
+          "layout": "2,0,6,1.2",
+          "offset": "0,-0.2,0,0",
           "image": "https://i.postimg.cc/QdJBL19x/logo-vertical.png",
           "imageFiller": "fit"
         },
         {
           "id": "drm-play",
-          "layout": "0,2,2,2",
-          "offset": "0.1,0.1,0.1,0.1",
+          "layout": "2,1,1,1",
+          "offset": "0.05,0.05,0.05,0.05",
           "image": "https://i.postimg.cc/pr5R3jmY/drm-play.png",
           "action": "link:http://ott.drm-play.com"
         },
         {
           "id": "ott-play",
-          "layout": "2,2,2,2",
-          "offset": "0.1,0.1,0.1,0.1",
+          "layout": "3,1,1,1",
+          "offset": "0.05,0.05,0.05,0.05",
           "image": "https://i.postimg.cc/BQD1KLmQ/ott-play.png",
           "action": "link:http://ott-play.com/f/"
         },
         {
           "id": "ott-foss",
-          "layout": "4,2,2,2",
-          "offset": "0.1,0.1,0.1,0.1",
+          "layout": "4,1,1,1",
+          "offset": "0.05,0.05,0.05,0.05",
           "image": "https://i.postimg.cc/02qY51vx/foss.png",
           "action": "link:http://ott.prog4food.eu.org/f/"
         },
         {
           "id": "zona",
-          "layout": "6,2,2,2",
-          "offset": "0.1,0.1,0.1,0.1",
+          "layout": "5,1,1,1",
+          "offset": "0.05,0.05,0.05,0.05",
           "image": "https://i.postimg.cc/0ysKdk4D/zona.png",
           "action": "link:https://msx.zona.ms"
         },
         {
           "id": "lampa",
-          "layout": "8,2,2,2",
-          "offset": "0.1,0.1,0.1,0.1",
+          "layout": "6,1,1,1",
+          "offset": "0.05,0.05,0.05,0.05",
           "image": "https://i.postimg.cc/Gmk3qd1y/lampa.png",
           "action": "link:http://lampa.mx"
         },
         {
           "id": "app-6",
-          "layout": "10,2,2,2",
-          "offset": "0.1,0.1,0.1,0.1",
+          "layout": "7,1,1,1",
+          "offset": "0.05,0.05,0.05,0.05",
           "image": "https://i.postimg.cc/ВАШ_ХЭШ/icon6.png",
           "action": "link:http://example.com/6"
         },
         {
           "id": "atodo",
-          "layout": "0,4,2,2",
-          "offset": "0.1,0.1,0.1,0.1",
+          "layout": "2,2,1,1",
+          "offset": "0.05,0.05,0.05,0.05",
           "image": "https://i.postimg.cc/brSp4nZT/atodo.png",
           "action": "menu:request:interaction:menu@http://atodo.fun/fun.html"
         },
         {
           "id": "getstv",
-          "layout": "2,4,2,2",
-          "offset": "0.1,0.1,0.1,0.1",
+          "layout": "3,2,1,1",
+          "offset": "0.05,0.05,0.05,0.05",
           "image": "https://i.postimg.cc/nVXmnw77/gets-tv.png",
           "action": "panel:http://lg.getstv.ru/msx/msx.json"
         },
         {
           "id": "filmix",
-          "layout": "4,4,2,2",
-          "offset": "0.1,0.1,0.1,0.1",
+          "layout": "4,2,1,1",
+          "offset": "0.05,0.05,0.05,0.05",
           "image": "https://i.postimg.cc/sgpfwsRW/filmix-smart.png",
           "action": "link:http://filmix.tv/"
         },
         {
           "id": "youtube",
-          "layout": "6,4,2,2",
-          "offset": "0.1,0.1,0.1,0.1",
+          "layout": "5,2,1,1",
+          "offset": "0.05,0.05,0.05,0.05",
           "image": "https://i.postimg.cc/5NvFCYs8/youtube.png",
           "action": "link:https://www.youtube.com/tv"
         },
         {
           "id": "deeplex",
-          "layout": "8,4,2,2",
-          "offset": "0.1,0.1,0.1,0.1",
+          "layout": "6,2,1,1",
+          "offset": "0.05,0.05,0.05,0.05",
           "image": "https://i.postimg.cc/13pRJsZf/deeplex.png",
           "action": "link:http://smart.deeplex.cc/"
         },
         {
           "id": "app-12",
-          "layout": "10,4,2,2",
-          "offset": "0.1,0.1,0.1,0.1",
+          "layout": "7,2,1,1",
+          "offset": "0.05,0.05,0.05,0.05",
           "image": "https://i.postimg.cc/ВАШ_ХЭШ/icon12.png",
           "action": "link:http://example.com/12"
         },
         {
           "id": "forkplayer",
-          "layout": "0,6,2,2",
-          "offset": "0.1,0.1,0.1,0.1",
+          "layout": "2,3,1,1",
+          "offset": "0.05,0.05,0.05,0.05",
           "image": "https://i.postimg.cc/jdLDr8wC/fork4.png",
           "action": "link:http://browser.appfxml.com/"
         },
         {
           "id": "ottplayer",
-          "layout": "2,6,2,2",
-          "offset": "0.1,0.1,0.1,0.1",
+          "layout": "3,3,1,1",
+          "offset": "0.05,0.05,0.05,0.05",
           "image": "https://i.postimg.cc/WbrJkF5Z/ott-player.png",
           "action": "link:http://widget.ottplayer.tv"
         },
         {
           "id": "akter",
-          "layout": "4,6,2,2",
-          "offset": "0.1,0.1,0.1,0.1",
+          "layout": "4,3,1,1",
+          "offset": "0.05,0.05,0.05,0.05",
           "image": "https://i.postimg.cc/CMbqZnP4/akter-black.png",
           "action": "link:http://abvidaa.ru/"
         },
         {
           "id": "lift",
-          "layout": "6,6,2,2",
-          "offset": "0.1,0.1,0.1,0.1",
+          "layout": "5,3,1,1",
+          "offset": "0.05,0.05,0.05,0.05",
           "image": "https://i.postimg.cc/Bn91C2vm/lift.png",
           "action": "link:http://lift3.ws"
         },
         {
           "id": "youtube-kids",
-          "layout": "8,6,2,2",
-          "offset": "0.1,0.1,0.1,0.1",
+          "layout": "6,3,1,1",
+          "offset": "0.05,0.05,0.05,0.05",
           "image": "https://i.postimg.cc/gkR6ZXgy/youtube-kids.png",
           "action": "link:https://www.youtube.com/tv/kids"
         },
         {
           "id": "app-18",
-          "layout": "10,6,2,2",
-          "offset": "0.1,0.1,0.1,0.1",
+          "layout": "7,3,1,1",
+          "offset": "0.05,0.05,0.05,0.05",
           "image": "https://i.postimg.cc/ВАШ_ХЭШ/icon18.png",
           "action": "link:http://example.com/18"
         }
