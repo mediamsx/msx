@@ -17,56 +17,56 @@
           "id": "drm-play",
           "layout": "2,1,1,1",
           "offset": "0.2,0.4,0.2,0.2",
-          "image": "https://i.postimg.cc/Px9JbMc6/DRM-Play.png",
+          "image": "https://i.postimg.cc/fWvTGqYq/drm-play.png",
           "action": "link:http://ott.drm-play.com"
         },
         {
           "id": "ott-play",
           "layout": "3,1,1,1",
           "offset": "0.8,0.4,0.2,0.2",
-          "image": "https://i.postimg.cc/1XFtvqhM/OTT-Play.png",
+          "image": "https://i.postimg.cc/rspXXjkq/ott-play.png",
           "action": "link:http://ott-play.com/f/"
         },
         {
           "id": "ott-foss",
           "layout": "5,1,1,1",
           "offset": "0.4,0.4,0.2,0.2",
-          "image": "https://i.postimg.cc/gjhJgZFD/OTT-Play-Foss.png",
+          "image": "https://i.postimg.cc/D0zkk6T2/ott-play-foss.png",
           "action": "link:http://ott.prog4food.eu.org/f/"
         },
         {
           "id": "zona",
           "layout": "7,1,1,1",
           "offset": "0.0,0.4,0.2,0.2",
-          "image": "https://i.postimg.cc/j2f5M70k/Zona.png",
+          "image": "https://i.postimg.cc/Gh5rRWtF/zona.png",
           "action": "link:https://msx.zona.ms"
         },
         {
           "id": "lampa",
           "layout": "8,1,1,1",
           "offset": "0.6,0.4,0.2,0.2",
-          "image": "https://i.postimg.cc/2yW60ZRx/Lampa.png",
+          "image": "https://i.postimg.cc/GtpwwK1W/lampa.png",
           "action": "link:http://lampa.mx"
         },
         {
           "id": "atodo",
           "layout": "2,2,1,1",
           "offset": "0.2,0.88,0.2,0.2",
-          "image": "https://i.postimg.cc/TwF1jcSC/Atodo.png",
+          "image": "https://i.postimg.cc/NGxf3CRk/atodo.png",
           "action": "menu:request:interaction:menu@http://atodo.fun/fun.html"
         },
         {
           "id": "getstv",
           "layout": "3,2,1,1",
           "offset": "0.8,0.88,0.2,0.2",
-          "image": "https://i.postimg.cc/BbF6mK95/Gets-TV.png",
+          "image": "https://i.postimg.cc/bNCYJGCw/gets-tv.png",
           "action": "panel:http://lg.getstv.ru/msx/msx.json"
         },
         {
           "id": "filmix",
           "layout": "5,2,1,1",
           "offset": "0.4,0.88,0.2,0.2",
-          "image": "https://i.postimg.cc/Jnv03Qgd/Filmix.png",
+          "image": "https://i.postimg.cc/jqhdp3yg/filmix.png",
           "action": "link:http://filmix.tv/"
         },
         {
@@ -80,7 +80,7 @@
           "id": "deeplex",
           "layout": "8,2,1,1",
           "offset": "0.6,0.88,0.2,0.2",
-          "image": "https://i.postimg.cc/hj6v80w2/d-reel.png",
+          "image": "https://i.postimg.cc/Vv4fX5Yv/deeplex.png",
           "action": "link:http://smart.deeplex.cc/"
         },
         {
@@ -115,7 +115,7 @@
           "id": "youtube-kids",
           "layout": "8,4,1,1",
           "offset": "0.6,0.36,0.2,0.2",
-          "image": "https://i.postimg.cc/BbF6mK9Y/youtube-kids.png",
+          "image": "https://i.postimg.cc/1XYx9FmN/youtube-kids.png",
          "action": "link:https://www.youtube.com/tv/kids"
         }
       ]
