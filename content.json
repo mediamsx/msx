@@ -109,6 +109,7 @@
           "id": "ua-kino",
           "layout": "7,4,1,1",
           "offset": "0.0,0.36,0.2,0.2",
+          "color": "rgba(0,0,0,0)",
           "image": "https://i.postimg.cc/hvqFhnTS/ua-kino.png",
          "action": "menu:https://uakino.ax/msx/menu.json"
         },
