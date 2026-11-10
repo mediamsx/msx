@@ -73,7 +73,7 @@
           "id": "youtube",
           "layout": "7,2,1,1",
           "offset": "0.0,0.88,0.2,0.2",
-          "image": "https://i.postimg.cc/KjTz0MS9/youtube.png",
+          "image": "https://i.postimg.cc/65g3c2r4/youtube.png",
           "action": "link:https://www.youtube.com/tv"
         },
         {
@@ -87,7 +87,7 @@
           "id": "forkplayer",
           "layout": "2,4,1,1",
           "offset": "0.2,0.36,0.2,0.2",
-          "image": "https://i.postimg.cc/Jnv03Qg2/f-letter.png",
+          "image": "https://i.postimg.cc/0QSR8j6c/forkplayer.png",
           "action": "link:http://browser.appfxml.com/"
         },
         {
@@ -105,11 +105,11 @@
           "action": "link:http://abvidaa.ru/"
         },
         {
-          "id": "lampa-lite",
+          "id": "ua-kino",
           "layout": "7,4,1,1",
           "offset": "0.0,0.36,0.2,0.2",
-          "image": "https://i.postimg.cc/J0XnpkVc/Lampa-Lite.png",
-         "action": "link:http://lampa.land"
+          "image": "https://i.postimg.cc/hvqFhnTS/ua-kino.png",
+         "action": "menu:https://uakino.ax/msx/menu.json"
         },
         {
           "id": "youtube-kids",
