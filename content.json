@@ -26,84 +26,96 @@
           "id": "ott-play",
           "layout": "3,1,1,1",
           "offset": "0.8,0.4,0.2,0.2",
-          "image": "https://i.postimg.cc/rspXXjkq/ott-play.png",
+          "color": "rgba(0,0,0,0)",
+          "image": "https://i.postimg.cc/bv9ghjg6/ott-play.png",
           "action": "link:http://ott-play.com/f/"
         },
         {
           "id": "ott-foss",
           "layout": "5,1,1,1",
           "offset": "0.4,0.4,0.2,0.2",
-          "image": "https://i.postimg.cc/D0zkk6T2/ott-play-foss.png",
+          "color": "rgba(0,0,0,0)",
+          "image": "https://i.postimg.cc/7Ln9ky9s/ott-play-foss.png",
           "action": "link:http://ott.prog4food.eu.org/f/"
         },
         {
           "id": "zona",
           "layout": "7,1,1,1",
           "offset": "0.0,0.4,0.2,0.2",
-          "image": "https://i.postimg.cc/Gh5rRWtF/zona.png",
+          "color": "rgba(0,0,0,0)",
+          "image": "https://i.postimg.cc/VNWg8cgH/zona.png",
           "action": "link:https://msx.zona.ms"
         },
         {
           "id": "lampa",
           "layout": "8,1,1,1",
           "offset": "0.6,0.4,0.2,0.2",
-          "image": "https://i.postimg.cc/GtpwwK1W/lampa.png",
+          "color": "rgba(0,0,0,0)",
+          "image": "https://i.postimg.cc/GtCyKXZw/lampa1.png",
           "action": "link:http://lampa.mx"
         },
         {
           "id": "atodo",
           "layout": "2,2,1,1",
           "offset": "0.2,0.88,0.2,0.2",
-          "image": "https://i.postimg.cc/NGxf3CRk/atodo.png",
+          "color": "rgba(0,0,0,0)",
+          "image": "https://i.postimg.cc/J0LkxpS9/atodo.png",
           "action": "menu:request:interaction:menu@http://atodo.fun/fun.html"
         },
         {
           "id": "getstv",
           "layout": "3,2,1,1",
           "offset": "0.8,0.88,0.2,0.2",
-          "image": "https://i.postimg.cc/bNCYJGCw/gets-tv.png",
+          "color": "rgba(0,0,0,0)",
+          "image": "https://i.postimg.cc/LsyT5FYx/gets-tv.png",
           "action": "panel:http://lg.getstv.ru/msx/msx.json"
         },
         {
           "id": "filmix",
           "layout": "5,2,1,1",
           "offset": "0.4,0.88,0.2,0.2",
-          "image": "https://i.postimg.cc/jqhdp3yg/filmix.png",
+          "color": "rgba(0,0,0,0)",
+          "image": "https://i.postimg.cc/Jh7mNZTq/filmix.png",
           "action": "link:http://filmix.tv/"
         },
         {
           "id": "youtube",
           "layout": "7,2,1,1",
           "offset": "0.0,0.88,0.2,0.2",
-          "image": "https://i.postimg.cc/65g3c2r4/youtube.png",
+          "color": "rgba(0,0,0,0)",
+          "image": "https://i.postimg.cc/3wr7XmLX/youtube.png",
           "action": "link:https://www.youtube.com/tv"
         },
         {
           "id": "deeplex",
           "layout": "8,2,1,1",
           "offset": "0.6,0.88,0.2,0.2",
-          "image": "https://i.postimg.cc/Vv4fX5Yv/deeplex.png",
+          "color": "rgba(0,0,0,0)",
+          "image": "https://i.postimg.cc/522Q0YB2/deeplex1.png",
           "action": "link:http://smart.deeplex.cc/"
         },
         {
           "id": "forkplayer",
           "layout": "2,4,1,1",
           "offset": "0.2,0.36,0.2,0.2",
-          "image": "https://i.postimg.cc/0QSR8j6c/forkplayer.png",
+          "color": "rgba(0,0,0,0)",
+          "image": "https://i.postimg.cc/yxcw48QH/forkplayer.png",
           "action": "link:http://browser.appfxml.com/"
         },
         {
           "id": "ottplayer",
           "layout": "3,4,1,1",
           "offset": "0.8,0.36,0.2,0.2",
-          "image": "https://i.postimg.cc/d3C15yP4/ott-player.png",
+          "color": "rgba(0,0,0,0)",
+          "image": "https://i.postimg.cc/FKPZzXd2/ott-player.png",
           "action": "link:http://widget.ottplayer.tv"
         },
         {
           "id": "akter",
           "layout": "5,4,1,1",
           "offset": "0.4,0.36,0.2,0.2",
-          "image": "https://i.postimg.cc/TwF1jcS7/Akter-Black.png",
+          "color": "rgba(0,0,0,0)",
+          "image": "https://i.postimg.cc/W49nzcFW/akter-black.png",
           "action": "link:http://abvidaa.ru/"
         },
         {
@@ -118,7 +130,8 @@
           "id": "youtube-kids",
           "layout": "8,4,1,1",
           "offset": "0.6,0.36,0.2,0.2",
-          "image": "https://i.postimg.cc/1XYx9FmN/youtube-kids.png",
+          "color": "rgba(0,0,0,0)",
+          "image": "https://i.postimg.cc/s2fyY7nT/youtube-kids.png",
          "action": "link:https://www.youtube.com/tv/kids"
         }
       ]
