@@ -15,228 +15,129 @@
         },
         {
           "id": "drm-play",
-          "layout": "2,1,1,1",
-          "offset": "0.2,0.4,0.2,0.2",
+          "layout": "1.5,1.5,1.5,1.5",
+          "offset": "0,0,0,0",
           "image": "https://i.postimg.cc/pr5R3jmY/drm-play.png",
           "action": "link:http://ott.drm-play.com"
         },
         {
-          "type": "space",
-          "layout": "2,2,2,1",
-          "offset": "0.0,0.6,-0.4,-0.7",
-          "color": "rgba(0,0,0,0)",
-          "title": "DRM-PLAY",
-          "alignment": "center"
-        },
-        {
           "id": "ott-play",
-          "layout": "3,1,1,1",
-          "offset": "0.8,0.4,0.2,0.2",
+          "layout": "3.0,1.5,1.5,1.5",
+          "offset": "0,0,0,0",
           "image": "https://i.postimg.cc/yxqCg61V/ott-play.png",
           "action": "link:http://ott-play.com/f/"
         },
         {
-          "type": "space",
-          "layout": "3,2,2,1",
-          "offset": "0.6,0.6,-0.4,-0.7",
-          "color": "rgba(0,0,0,0)",
-          "title": "OTT-PLAY",
-          "alignment": "center"
-        },
-        {
           "id": "ott-foss",
-          "layout": "5,1,1,1",
-          "offset": "0.4,0.4,0.2,0.2",
+          "layout": "4.5,1.5,1.5,1.5",
+          "offset": "0,0,0,0",
           "image": "https://i.postimg.cc/rs620yVt/foss.png",
           "action": "link:http://ott.prog4food.eu.org/f/"
         },
         {
-          "type": "space",
-          "layout": "5,2,2,1",
-          "offset": "0.2,0.6,-0.4,-0.7",
-          "color": "rgba(0,0,0,0)",
-          "title": "OTT FOSS",
-          "alignment": "center"
-        },
-        {
           "id": "zona",
-          "layout": "7,1,1,1",
-          "offset": "0.0,0.4,0.2,0.2",
+          "layout": "6.0,1.5,1.5,1.5",
+          "offset": "0,0,0,0",
           "image": "https://i.postimg.cc/0ysKdk4D/zona.png",
           "action": "link:https://msx.zona.ms"
         },
         {
-          "type": "space",
-          "layout": "6,2,2,1",
-          "offset": "0.8,0.6,-0.4,-0.7",
-          "color": "rgba(0,0,0,0)",
-          "title": "ZONA",
-          "alignment": "center"
-        },
-        {
           "id": "lampa",
-          "layout": "8,1,1,1",
-          "offset": "0.6,0.4,0.2,0.2",
+          "layout": "7.5,1.5,1.5,1.5",
+          "offset": "0,0,0,0",
           "image": "https://i.postimg.cc/Gmk3qd1y/lampa.png",
           "action": "link:http://lampa.mx"
         },
         {
-          "type": "space",
-          "layout": "8,2,2,1",
-          "offset": "0.4,0.6,-0.4,-0.7",
-          "color": "rgba(0,0,0,0)",
-          "title": "LAMPA",
-          "alignment": "center"
+          "id": "lampa",
+          "layout": "9.0,1.5,1.5,1.5",
+          "offset": "0,0,0,0",
+          "image": "https://i.postimg.cc/Gmk3qd1y/lampa.png",
+          "action": "link:http://lampa.mx"
         },
         {
           "id": "atodo",
-          "layout": "2,2,1,1",
-          "offset": "0.2,0.88,0.2,0.2",
+          "layout": "1.5,3.0,1.5,1.5",
+          "offset": "0,0,0,0",
           "image": "https://i.postimg.cc/brSp4nZT/atodo.png",
           "action": "menu:request:interaction:menu@http://atodo.fun/fun.html"
         },
         {
-          "type": "space",
-          "layout": "2,4,2,1",
-          "offset": "0.0,0.08,-0.4,-0.7",
-          "color": "rgba(0,0,0,0)",
-          "title": "ATODO",
-          "alignment": "center"
-        },
-        {
           "id": "getstv",
-          "layout": "3,2,1,1",
-          "offset": "0.8,0.88,0.2,0.2",
+          "layout": "3.0,3.0,1.5,1.5",
+          "offset": "0,0,0,0",
           "image": "https://i.postimg.cc/nVXmnw77/gets-tv.png",
           "action": "panel:http://lg.getstv.ru/msx/msx.json"
         },
         {
-          "type": "space",
-          "layout": "3,4,2,1",
-          "offset": "0.6,0.08,-0.4,-0.7",
-          "color": "rgba(0,0,0,0)",
-          "title": "GetsTV",
-          "alignment": "center"
-        },
-        {
           "id": "filmix",
-          "layout": "5,2,1,1",
-          "offset": "0.4,0.88,0.2,0.2",
+          "layout": "4.5,3.0,1.5,1.5",
+          "offset": "0,0,0,0",
           "image": "https://i.postimg.cc/sgpfwsRW/filmix-smart.png",
           "action": "link:http://filmix.tv/"
         },
         {
-          "type": "space",
-          "layout": "5,4,2,1",
-          "offset": "0.2,0.08,-0.4,-0.7",
-          "color": "rgba(0,0,0,0)",
-          "title": "FILMIX",
-          "alignment": "center"
-        },
-        {
           "id": "youtube",
-          "layout": "7,2,1,1",
-          "offset": "0.0,0.88,0.2,0.2",
+          "layout": "6.0,3.0,1.5,1.5",
+          "offset": "0,0,0,0",
           "image": "https://i.postimg.cc/5NvFCYs8/youtube.png",
           "action": "link:https://www.youtube.com/tv"
         },
         {
-          "type": "space",
-          "layout": "6,4,2,1",
-          "offset": "0.8,0.08,-0.4,-0.7",
-          "color": "rgba(0,0,0,0)",
-          "title": "YouTube",
-          "alignment": "center"
-        },
-        {
           "id": "deeplex",
-          "layout": "8,2,1,1",
-          "offset": "0.6,0.88,0.2,0.2",
+          "layout": "7.5,3.0,1.5,1.5",
+          "offset": "0,0,0,0",
           "image": "https://i.postimg.cc/13pRJsZf/deeplex.png",
           "action": "link:http://smart.deeplex.cc/"
         },
         {
-          "type": "space",
-          "layout": "8,4,2,1",
-          "offset": "0.4,0.08,-0.4,-0.7",
-          "color": "rgba(0,0,0,0)",
-          "title": "DEEPLEX",
-          "alignment": "center"
+          "id": "deeplex",
+          "layout": "9.0,3.0,1.5,1.5",
+          "offset": "0,0,0,0",
+          "image": "https://i.postimg.cc/13pRJsZf/deeplex.png",
+          "action": "link:http://smart.deeplex.cc/"
         },
         {
           "id": "uakino",
-          "layout": "2,4,1,1",
-          "offset": "0.2,0.36,0.2,0.2",
+          "layout": "1.5,4.5,1.5,1.5",
+          "offset": "0,0,0,0",
           "image": "https://i.postimg.cc/Qtb6Pt3X/uakino-3d.png",
           "action": "link:https://appfxml.com"
         },
         {
-          "type": "space",
-          "layout": "2,5,2,1",
-          "offset": "0.0,0.56,-0.4,-0.7",
-          "color": "rgba(0,0,0,0)",
-          "title": "UA KINO",
-          "alignment": "center"
-        },
-        {
           "id": "ottplayer",
-          "layout": "3,4,1,1",
-          "offset": "0.8,0.36,0.2,0.2",
+          "layout": "3.0,4.5,1.5,1.5",
+          "offset": "0,0,0,0",
           "image": "https://i.postimg.cc/WbrJkF5Z/ott-player.png",
           "action": "link:http://widget.ottplayer.tv"
         },
         {
-          "type": "space",
-          "layout": "3,5,2,1",
-          "offset": "0.6,0.56,-0.4,-0.7",
-          "color": "rgba(0,0,0,0)",
-          "title": "OTT Player",
-          "alignment": "center"
-        },
-        {
           "id": "akter",
-          "layout": "5,4,1,1",
-          "offset": "0.4,0.36,0.2,0.2",
+          "layout": "4.5,4.5,1.5,1.5",
+          "offset": "0,0,0,0",
           "image": "https://i.postimg.cc/CMbqZnP4/akter-black.png",
           "action": "link:http://abvidaa.ru/"
         },
         {
-          "type": "space",
-          "layout": "5,5,2,1",
-          "offset": "0.2,0.56,-0.4,-0.7",
-          "color": "rgba(0,0,0,0)",
-          "title": "AKTER.BLACK",
-          "alignment": "center"
-        },
-        {
           "id": "lift",
-          "layout": "7,4,1,1",
-          "offset": "0.0,0.36,0.2,0.2",
+          "layout": "6.0,4.5,1.5,1.5",
+          "offset": "0,0,0,0",
           "image": "https://i.postimg.cc/Bn91C2vm/lift.png",
-         "action": "link:http://lift3.ws"
-        },
-        {
-          "type": "space",
-          "layout": "6,5,2,1",
-          "offset": "0.8,0.56,-0.4,-0.7",
-          "color": "rgba(0,0,0,0)",
-          "title": "LIFT",
-          "alignment": "center"
+          "action": "link:http://lift3.ws"
         },
         {
           "id": "youtube-kids",
-          "layout": "8,4,1,1",
-          "offset": "0.6,0.36,0.2,0.2",
+          "layout": "7.5,4.5,1.5,1.5",
+          "offset": "0,0,0,0",
           "image": "https://i.postimg.cc/gkR6ZXgy/youtube-kids.png",
-         "action": "link:https://www.youtube.com/tv/kids"
+          "action": "link:https://www.youtube.com/tv/kids"
         },
         {
-          "type": "space",
-          "layout": "8,5,2,1",
-          "offset": "0.4,0.56,-0.4,-0.7",
-          "color": "rgba(0,0,0,0)",
-          "title": "YouTube Kids",
-          "alignment": "center"
+          "id": "youtube-kids",
+          "layout": "9.0,4.5,1.5,1.5",
+          "offset": "0,0,0,0",
+          "image": "https://i.postimg.cc/gkR6ZXgy/youtube-kids.png",
+          "action": "link:https://www.youtube.com/tv/kids"
         }
       ]
     }
