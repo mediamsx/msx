@@ -10,6 +10,7 @@
           "type": "space",
           "layout": "4,0,4,2",
           "offset": "0,-0.7,0,0",
+          "color": "rgba(0,0,0,0)",
           "image": "https://i.postimg.cc/QdJBL19x/logo-vertical.png",
           "imageFiller": "fit"
         },
