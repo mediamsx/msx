@@ -1,158 +1,155 @@
 {
   "name": "MediaBox Portal",
-  "version": "2.2.0",
+  "version": "2.3.0",
   "type": "pages",
-  "template": {
-    "grid": "12,8"
-  },
   "background": "https://i.postimg.cc/R0Smdtd5/background.jpg",
   "pages": [
     {
       "items": [
         {
           "type": "space",
-          "layout": "2,0,8,2",
-          "offset": "0,0.1,0,0.1",
+          "layout": "3,0.1,6,1.2",
+          "offset": "0,0,0,0",
           "image": "https://i.postimg.cc/QdJBL19x/logo-vertical.png",
           "imageFiller": "fit"
         },
         {
           "id": "drm-play",
-          "layout": "1,2,2,2",
-          "offset": "0.03,0.03,0.03,0.03",
+          "layout": "0.6,1.6,1.6,1.4",
+          "offset": "0.08,0.08,0.08,0.08",
           "image": "https://i.postimg.cc/pr5R3jmY/drm-play.png",
           "action": "link:http://ott.drm-play.com"
         },
         {
           "id": "ott-play",
-          "layout": "3,2,2,2",
-          "offset": "0.03,0.03,0.03,0.03",
+          "layout": "2.8,1.6,1.6,1.4",
+          "offset": "0.08,0.08,0.08,0.08",
           "image": "https://i.postimg.cc/BQD1KLmQ/ott-play.png",
           "action": "link:http://ott-play.com/f/"
         },
         {
           "id": "ott-foss",
-          "layout": "5,2,2,2",
-          "offset": "0.03,0.03,0.03,0.03",
+          "layout": "5.0,1.6,1.6,1.4",
+          "offset": "0.08,0.08,0.08,0.08",
           "image": "https://i.postimg.cc/02qY51vx/foss.png",
           "action": "link:http://ott.prog4food.eu.org/f/"
         },
         {
           "id": "zona",
-          "layout": "7,2,2,2",
-          "offset": "0.03,0.03,0.03,0.03",
+          "layout": "7.2,1.6,1.6,1.4",
+          "offset": "0.08,0.08,0.08,0.08",
           "image": "https://i.postimg.cc/0ysKdk4D/zona.png",
           "action": "link:https://msx.zona.ms"
         },
         {
           "id": "lampa",
-          "layout": "9,2,2,2",
-          "offset": "0.03,0.03,0.03,0.03",
+          "layout": "9.4,1.6,1.6,1.4",
+          "offset": "0.08,0.08,0.08,0.08",
           "image": "https://i.postimg.cc/Gmk3qd1y/lampa.png",
           "action": "link:http://lampa.mx"
         },
         {
           "id": "atodo",
-          "layout": "1,4,2,2",
-          "offset": "0.03,0.03,0.03,0.03",
+          "layout": "0.6,3.1,1.6,1.4",
+          "offset": "0.08,0.08,0.08,0.08",
           "image": "https://i.postimg.cc/brSp4nZT/atodo.png",
           "action": "menu:request:interaction:menu@http://atodo.fun/fun.html"
         },
         {
           "id": "getstv",
-          "layout": "3,4,2,2",
-          "offset": "0.03,0.03,0.03,0.03",
+          "layout": "2.8,3.1,1.6,1.4",
+          "offset": "0.08,0.08,0.08,0.08",
           "image": "https://i.postimg.cc/nVXmnw77/gets-tv.png",
           "action": "panel:http://lg.getstv.ru/msx/msx.json"
         },
         {
           "id": "filmix",
-          "layout": "5,4,2,2",
-          "offset": "0.03,0.03,0.03,0.03",
+          "layout": "5.0,3.1,1.6,1.4",
+          "offset": "0.08,0.08,0.08,0.08",
           "image": "https://i.postimg.cc/sgpfwsRW/filmix-smart.png",
           "action": "link:http://filmix.tv/"
         },
         {
           "id": "youtube",
-          "layout": "7,4,2,2",
-          "offset": "0.03,0.03,0.03,0.03",
+          "layout": "7.2,3.1,1.6,1.4",
+          "offset": "0.08,0.08,0.08,0.08",
           "image": "https://i.postimg.cc/5NvFCYs8/youtube.png",
           "action": "link:https://www.youtube.com/tv"
         },
         {
           "id": "deeplex",
-          "layout": "9,4,2,2",
-          "offset": "0.03,0.03,0.03,0.03",
+          "layout": "9.4,3.1,1.6,1.4",
+          "offset": "0.08,0.08,0.08,0.08",
           "image": "https://i.postimg.cc/13pRJsZf/deeplex.png",
           "action": "link:http://smart.deeplex.cc/"
         },
         {
           "id": "forkplayer",
-          "layout": "1,6,2,2",
-          "offset": "0.03,0.03,0.03,0.03",
+          "layout": "0.6,4.6,1.6,1.4",
+          "offset": "0.08,0.08,0.08,0.08",
           "image": "https://i.postimg.cc/jdLDr8wC/fork4.png",
           "action": "link:http://browser.appfxml.com/"
         },
         {
           "id": "ottplayer",
-          "layout": "3,6,2,2",
-          "offset": "0.03,0.03,0.03,0.03",
+          "layout": "2.8,4.6,1.6,1.4",
+          "offset": "0.08,0.08,0.08,0.08",
           "image": "https://i.postimg.cc/WbrJkF5Z/ott-player.png",
           "action": "link:http://widget.ottplayer.tv"
         },
         {
           "id": "akter",
-          "layout": "5,6,2,2",
-          "offset": "0.03,0.03,0.03,0.03",
+          "layout": "5.0,4.6,1.6,1.4",
+          "offset": "0.08,0.08,0.08,0.08",
           "image": "https://i.postimg.cc/CMbqZnP4/akter-black.png",
           "action": "link:http://abvidaa.ru/"
         },
         {
           "id": "lift",
-          "layout": "7,6,2,2",
-          "offset": "0.03,0.03,0.03,0.03",
+          "layout": "7.2,4.6,1.6,1.4",
+          "offset": "0.08,0.08,0.08,0.08",
           "image": "https://i.postimg.cc/Bn91C2vm/lift.png",
           "action": "link:http://lift3.ws"
         },
         {
           "id": "youtube-kids",
-          "layout": "9,6,2,2",
-          "offset": "0.03,0.03,0.03,0.03",
+          "layout": "9.4,4.6,1.6,1.4",
+          "offset": "0.08,0.08,0.08,0.08",
           "image": "https://i.postimg.cc/gkR6ZXgy/youtube-kids.png",
           "action": "link:https://www.youtube.com/tv/kids"
         },
         {
           "id": "app-16",
-          "layout": "1,8,2,2",
-          "offset": "0.03,0.03,0.03,0.03",
+          "layout": "0.6,6.1,1.6,1.4",
+          "offset": "0.08,0.08,0.08,0.08",
           "image": "",
           "action": ""
         },
         {
           "id": "app-17",
-          "layout": "3,8,2,2",
-          "offset": "0.03,0.03,0.03,0.03",
+          "layout": "2.8,6.1,1.6,1.4",
+          "offset": "0.08,0.08,0.08,0.08",
           "image": "",
           "action": ""
         },
         {
           "id": "app-18",
-          "layout": "5,8,2,2",
-          "offset": "0.03,0.03,0.03,0.03",
+          "layout": "5.0,6.1,1.6,1.4",
+          "offset": "0.08,0.08,0.08,0.08",
           "image": "",
           "action": ""
         },
         {
           "id": "app-19",
-          "layout": "7,8,2,2",
-          "offset": "0.03,0.03,0.03,0.03",
+          "layout": "7.2,6.1,1.6,1.4",
+          "offset": "0.08,0.08,0.08,0.08",
           "image": "",
           "action": ""
         },
         {
           "id": "app-20",
-          "layout": "9,8,2,2",
-          "offset": "0.03,0.03,0.03,0.03",
+          "layout": "9.4,6.1,1.6,1.4",
+          "offset": "0.08,0.08,0.08,0.08",
           "image": "",
           "action": ""
         }
