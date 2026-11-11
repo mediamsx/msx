@@ -151,11 +151,12 @@
           "action": "menu:request:interaction:menu@https://lift3.ws/msx/"
         },
         {
-          "id": "slot-18",
+          "id": "vi3000",
           "layout": "5,4,1,1",
           "offset": "0.52,0.73,-0.04,-0.04",
-          "color": "rgba(255,255,255,0.08)",
-          "action": "content:https://wals09.github.io/msx/menu.json"
+          "color": "rgba(0,0,0,0)",
+          "image": "https://i.postimg.cc/YChGDyfn/vi3000.png",         
+          "action": "content:http://vi3000.com/msx/start.json"
         },
         {
           "id": "slot-19",
