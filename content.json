@@ -159,7 +159,7 @@
           "action": "content:http://vi3000.com/msx/menu.json"
         },
         {
-          "id": "lampa nn",
+          "id": "19",
           "layout": "6,4,1,1",
           "offset": "0.73,0.73,-0.04,-0.04",
           "color": "rgba(255,255,255,0.08)",
