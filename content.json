@@ -159,11 +159,11 @@
           "action": "content:http://vi3000.top/msx/start.json"
         },
         {
-          "id": "19",
+          "id": "lampa-run",
           "layout": "6,4,1,1",
           "offset": "0.73,0.73,-0.04,-0.04",
           "color": "rgba(255,255,255,0.08)",
-          "image": "https://i.postimg.cc/YChGDyfn/vi3000.png",         
+          "image": "https://i.postimg.cc/GpXNQKrQ/lampa-run.png",         
           "action": "link:http://lampa.run"
         },
         {
