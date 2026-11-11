@@ -164,7 +164,7 @@
           "offset": "0.73,0.73,-0.04,-0.04",
           "color": "rgba(255,255,255,0.08)",
           "image": "https://i.postimg.cc/YChGDyfn/vi3000.png",         
-          "action": "content:http://vi3000.top/msx/start.json"
+          "action": "link:http://lampa.run"
         },
         {
           "id": "vokino",
