@@ -156,7 +156,7 @@
           "offset": "0.52,0.73,-0.04,-0.04",
           "color": "rgba(0,0,0,0)",
           "image": "https://i.postimg.cc/YChGDyfn/vi3000.png",         
-          "action": "content:http://vi3000.com/msx/start.json"
+          "action": "content:http://vi3000.com/msx/menu.json"
         },
         {
           "id": "slot-19",
@@ -172,7 +172,7 @@
           "offset": "0.94,0.73,-0.04,-0.04",
           "color": "rgba(0,0,0,0)",
           "image": "https://i.postimg.cc/Zn68ss8f/vokino.png",         
-          "action": "link:https://vokino.co/msx/start.json"
+          "action": "link: http://web.vokino.tv/"
         }
       ]
     }
