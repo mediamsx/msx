@@ -158,7 +158,8 @@
           "id": "slot-18",
           "layout": "5,4,1,1",
           "offset": "0.52,0.73,-0.04,-0.04",
-          "color": "rgba(255,255,255,0.08)"
+          "color": "rgba(255,255,255,0.08)",
+          "action": "menu:https://lift3.ws/msx/start.json"
         },
         {
           "id": "slot-19",
