@@ -148,7 +148,7 @@
           "offset": "0.31,0.73,-0.04,-0.04",
           "color": "rgba(0,0,0,0)",
           "image": "https://i.postimg.cc/bJ8xYnnG/lift.png",
-          "action": "menu:request:interaction:menu@https://lift3.ws/msx/"
+          "action": "menu:request:interaction:menu@http://lift3.ws/msx/"
         },
         {
           "id": "vi3000",
