@@ -148,12 +148,7 @@
           "offset": "0.31,0.73,-0.04,-0.04",
           "color": "rgba(0,0,0,0)",
           "image": "https://i.postimg.cc/bJ8xYnnG/lift.png",
-          "action": "start",
-          "data": {
-          "name": "Lift",
-          "version": "1.0.0",
-          "parameter": "redirect:http://lift3.ws/msx/content.json"
-          }
+          "action": "menu:request:interaction:menu@https://lift3.ws/msx/"
         },
         {
           "id": "slot-18",
