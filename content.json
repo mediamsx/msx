@@ -19,7 +19,7 @@
           "layout": "3,1,1,1",
           "offset": "0.10,0.40,-0.04,-0.04",
           "color": "rgba(0,0,0,0)",
-          "image": "https://i.postimg.cc/63V789gy/drm-play.png",
+          "image": "https://i.postimg.cc/fRH6mF1G/drm-play1.png",
           "action": "link:http://ott.drm-play.com"
         },
         {
@@ -27,7 +27,7 @@
           "layout": "4,1,1,1",
           "offset": "0.31,0.40,-0.04,-0.04",
           "color": "rgba(0,0,0,0)",
-          "image": "https://i.postimg.cc/bv9ghjg6/ott-play.png",
+          "image": "https://i.postimg.cc/CxvWktWT/ott-play1.png",
           "action": "link:http://ott-play.com/f/"
         },
         {
@@ -67,7 +67,7 @@
           "layout": "4,2,1,1",
           "offset": "0.31,0.51,-0.04,-0.04",
           "color": "rgba(0,0,0,0)",
-          "image": "https://i.postimg.cc/LsyT5FYx/gets-tv.png",
+          "image": "https://i.postimg.cc/0ytLD3L1/gets-tv1.png",
           "action": "panel:http://lg.getstv.ru/msx/msx.json"
         },
         {
