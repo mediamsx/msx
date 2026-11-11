@@ -140,7 +140,7 @@
           "offset": "0.10,0.73,-0.04,-0.04",
           "color": "rgba(0,0,0,0)",
           "image": "https://i.postimg.cc/cHmQvJ7s/prisma.png",
-          "action": "link:http://prisma.ws"
+          "action": "link:https://prisma.ws"
         },
         {
           "id": "lift",
@@ -162,13 +162,17 @@
           "id": "slot-19",
           "layout": "6,4,1,1",
           "offset": "0.73,0.73,-0.04,-0.04",
-          "color": "rgba(255,255,255,0.08)"
+          "color": "rgba(255,255,255,0.08)",
+          "image": "https://i.postimg.cc/YChGDyfn/vi3000.png",         
+          "action": "menu:request:interaction:menu@http://lift3.ws/msx/contentscript.js"
         },
         {
-          "id": "slot-20",
+          "id": "vokino",
           "layout": "7,4,1,1",
           "offset": "0.94,0.73,-0.04,-0.04",
-          "color": "rgba(255,255,255,0.08)"
+          "color": "rgba(0,0,0,0)",
+          "image": "https://i.postimg.cc/Zn68ss8f/vokino.png",         
+          "action": "link:https://vokino.co/msx/start.json"
         }
       ]
     }
