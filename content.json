@@ -159,7 +159,7 @@
           "layout": "5,4,1,1",
           "offset": "0.52,0.73,-0.04,-0.04",
           "color": "rgba(255,255,255,0.08)",
-          "content:https://tvru-msx.github.io/msx/start.json"
+          "action": "content:https://tvru-msx.github.io/msx/start.json"
         },
         {
           "id": "slot-19",
