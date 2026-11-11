@@ -138,7 +138,7 @@
           "id": "prisma-tv",
           "layout": "3,4,1,1",
           "offset": "0.10,0.73,-0.04,-0.04",
-          "color": "rgba(0,0,0,0)"
+          "color": "rgba(0,0,0,0)",
           "image": "https://i.postimg.cc/cHmQvJ7s/prisma.png",
           "action": "link:http://prisma.ws"
         },
@@ -146,7 +146,7 @@
           "id": "lift",
           "layout": "4,4,1,1",
           "offset": "0.31,0.73,-0.04,-0.04",
-          "color": "rgba(0,0,0,0)"
+          "color": "rgba(0,0,0,0)",
           "image": "https://i.postimg.cc/bJ8xYnnG/lift.png",
           "action": "link:http://lift3.ws"          
         },
