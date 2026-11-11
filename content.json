@@ -156,7 +156,7 @@
           "offset": "0.52,0.73,-0.04,-0.04",
           "color": "rgba(0,0,0,0)",
           "image": "https://i.postimg.cc/YChGDyfn/vi3000.png",         
-          "action": "content:http://vi3000.com/msx/menu.json"
+          "action": "content:http://vi3000.top/msx/start.json"
         },
         {
           "id": "19",
