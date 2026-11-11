@@ -152,7 +152,7 @@
           "data": {
           "name": "Lift",
           "version": "1.0.0",
-          "parameter": "redirect:http://lift3.ws/msx/start.json"
+          "parameter": "redirect:http://lift3.ws/msx/menu.json"
           }
         },
         {
