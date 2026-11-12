@@ -161,8 +161,8 @@
           "selection": {
             "action": "[update:content:info-text|update:content:info-shot]",
             "data": {
-              "text": "{txt:msx-white:YouTube}: впиши сюда короткое описание приложения",
-              "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg=="
+              "text": "{txt:msx-white:YouTube}: официальный клиент сервиса YouTube, адаптированный для управления с пульта на телевизорах и медиаплеерах с платформой Google TV, Android TV, Tizen и WebOS.",
+              "image": "https://i.postimg.cc/Y03CD4ts/youtube.png"
             }
           }
         },
