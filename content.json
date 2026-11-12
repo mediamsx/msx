@@ -1,6 +1,6 @@
 {
   "name": "MediaBox Portal",
-  "version": "1.5.0",
+  "version": "1.5.1",
   "type": "pages",
   "background": "https://i.postimg.cc/CMCcTFWj/background.jpg",
   "pages": [
@@ -18,7 +18,7 @@
           "id": "info-text",
           "type": "space",
           "layout": "0,1,4,2",
-          "offset": "0.4,0.4,-0.6,-0.4",
+          "offset": "0.4,0.4,-0.26,0.1",
           "color": "rgba(0,0,0,0.45)",
           "text": "Наведите на приложение, чтобы увидеть его описание"
         },
@@ -26,7 +26,7 @@
           "id": "info-shot",
           "type": "space",
           "layout": "0,3,4,2",
-          "offset": "0.4,0.1,-0.6,-0.1",
+          "offset": "0.4,0.6,-0.26,0.09",
           "color": "rgba(0,0,0,0.45)",
           "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg==",
           "imageFiller": "fit"
@@ -41,7 +41,7 @@
           "selection": {
             "action": "[update:content:info-text|update:content:info-shot]",
             "data": {
-              "text": "DRM-PLAY: IPTV плеер с поддержкой плейлистов в формате m3u, m3u8, stalker-portal, медиатеки. В данный момент загружен плейлист TV-TEAM",
+              "text": "{txt:msx-white:DRM-PLAY}: IPTV плеер с поддержкой плейлистов в формате m3u, m3u8, stalker-portal, медиатеки. В данный момент загружен плейлист TV-TEAM",
               "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg=="
             }
           }
@@ -56,7 +56,7 @@
           "selection": {
             "action": "[update:content:info-text|update:content:info-shot]",
             "data": {
-              "text": "OTT-PLAY: впиши сюда короткое описание приложения",
+              "text": "{txt:msx-white:OTT-PLAY}: впиши сюда короткое описание приложения",
               "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg=="
             }
           }
@@ -71,7 +71,7 @@
           "selection": {
             "action": "[update:content:info-text|update:content:info-shot]",
             "data": {
-              "text": "OTT-PLAY Foss: впиши сюда короткое описание приложения",
+              "text": "{txt:msx-white:OTT-PLAY Foss}: впиши сюда короткое описание приложения",
               "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg=="
             }
           }
@@ -86,7 +86,7 @@
           "selection": {
             "action": "[update:content:info-text|update:content:info-shot]",
             "data": {
-              "text": "ZONA: впиши сюда короткое описание приложения",
+              "text": "{txt:msx-white:ZONA}: впиши сюда короткое описание приложения",
               "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg=="
             }
           }
@@ -101,7 +101,7 @@
           "selection": {
             "action": "[update:content:info-text|update:content:info-shot]",
             "data": {
-              "text": "LAMPA: впиши сюда короткое описание приложения",
+              "text": "{txt:msx-white:LAMPA}: впиши сюда короткое описание приложения",
               "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg=="
             }
           }
@@ -116,7 +116,7 @@
           "selection": {
             "action": "[update:content:info-text|update:content:info-shot]",
             "data": {
-              "text": "ATODO: впиши сюда короткое описание приложения",
+              "text": "{txt:msx-white:ATODO}: впиши сюда короткое описание приложения",
               "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg=="
             }
           }
@@ -131,7 +131,7 @@
           "selection": {
             "action": "[update:content:info-text|update:content:info-shot]",
             "data": {
-              "text": "GetsTV: впиши сюда короткое описание приложения",
+              "text": "{txt:msx-white:GetsTV}: впиши сюда короткое описание приложения",
               "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg=="
             }
           }
@@ -146,7 +146,7 @@
           "selection": {
             "action": "[update:content:info-text|update:content:info-shot]",
             "data": {
-              "text": "Filmix: впиши сюда короткое описание приложения",
+              "text": "{txt:msx-white:Filmix}: впиши сюда короткое описание приложения",
               "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg=="
             }
           }
@@ -161,7 +161,7 @@
           "selection": {
             "action": "[update:content:info-text|update:content:info-shot]",
             "data": {
-              "text": "YouTube: впиши сюда короткое описание приложения",
+              "text": "{txt:msx-white:YouTube}: впиши сюда короткое описание приложения",
               "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg=="
             }
           }
@@ -176,7 +176,7 @@
           "selection": {
             "action": "[update:content:info-text|update:content:info-shot]",
             "data": {
-              "text": "DEEPLEX: впиши сюда короткое описание приложения",
+              "text": "{txt:msx-white:DEEPLEX}: впиши сюда короткое описание приложения",
               "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg=="
             }
           }
@@ -191,7 +191,7 @@
           "selection": {
             "action": "[update:content:info-text|update:content:info-shot]",
             "data": {
-              "text": "ForkPlayer: впиши сюда короткое описание приложения",
+              "text": "{txt:msx-white:ForkPlayer}: впиши сюда короткое описание приложения",
               "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg=="
             }
           }
@@ -206,7 +206,7 @@
           "selection": {
             "action": "[update:content:info-text|update:content:info-shot]",
             "data": {
-              "text": "OTT Player: впиши сюда короткое описание приложения",
+              "text": "{txt:msx-white:OTT Player}: впиши сюда короткое описание приложения",
               "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg=="
             }
           }
@@ -221,7 +221,7 @@
           "selection": {
             "action": "[update:content:info-text|update:content:info-shot]",
             "data": {
-              "text": "Akter Black: впиши сюда короткое описание приложения",
+              "text": "{txt:msx-white:Akter Black}: впиши сюда короткое описание приложения",
               "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg=="
             }
           }
@@ -236,7 +236,7 @@
           "selection": {
             "action": "[update:content:info-text|update:content:info-shot]",
             "data": {
-              "text": "UA KINO: впиши сюда короткое описание приложения",
+              "text": "{txt:msx-white:UA KINO}: впиши сюда короткое описание приложения",
               "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg=="
             }
           }
@@ -251,7 +251,7 @@
           "selection": {
             "action": "[update:content:info-text|update:content:info-shot]",
             "data": {
-              "text": "YouTube Kids: впиши сюда короткое описание приложения",
+              "text": "{txt:msx-white:YouTube Kids}: впиши сюда короткое описание приложения",
               "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg=="
             }
           }
@@ -266,7 +266,7 @@
           "selection": {
             "action": "[update:content:info-text|update:content:info-shot]",
             "data": {
-              "text": "Prisma TV: впиши сюда короткое описание приложения",
+              "text": "{txt:msx-white:Prisma TV}: впиши сюда короткое описание приложения",
               "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg=="
             }
           }
@@ -281,7 +281,7 @@
           "selection": {
             "action": "[update:content:info-text|update:content:info-shot]",
             "data": {
-              "text": "Lift: впиши сюда короткое описание приложения",
+              "text": "{txt:msx-white:Lift}: впиши сюда короткое описание приложения",
               "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg=="
             }
           }
@@ -296,7 +296,7 @@
           "selection": {
             "action": "[update:content:info-text|update:content:info-shot]",
             "data": {
-              "text": "VI3000: впиши сюда короткое описание приложения",
+              "text": "{txt:msx-white:VI3000}: впиши сюда короткое описание приложения",
               "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg=="
             }
           }
@@ -311,7 +311,7 @@
           "selection": {
             "action": "[update:content:info-text|update:content:info-shot]",
             "data": {
-              "text": "Lampa Run: впиши сюда короткое описание приложения",
+              "text": "{txt:msx-white:Lampa Run}: впиши сюда короткое описание приложения",
               "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg=="
             }
           }
@@ -326,7 +326,7 @@
           "selection": {
             "action": "[update:content:info-text|update:content:info-shot]",
             "data": {
-              "text": "VoKino: впиши сюда короткое описание приложения",
+              "text": "{txt:msx-white:VoKino}: впиши сюда короткое описание приложения",
               "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg=="
             }
           }
