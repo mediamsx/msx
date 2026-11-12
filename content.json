@@ -41,7 +41,7 @@
           "selection": {
             "action": "[update:content:info-text|update:content:info-shot]",
             "data": {
-              "text": "{txt:msx-white:DRM-PLAY}: IPTV плеер с поддержкой плейлистов в формате m3u, m3u8, stalker-portal, медиатеки. В данный момент загружен плейлист TV-TEAM",
+              "text": "{txt:msx-white:DRM-PLAY}: бесплатный IPTV-плеер, модификация плеера Ott-Play by Alex, предназначенная для просмотра сотен телевизионных каналов, архивов и видеоконтента через интернет.",
               "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg=="
             }
           }
@@ -56,7 +56,7 @@
           "selection": {
             "action": "[update:content:info-text|update:content:info-shot]",
             "data": {
-              "text": "{txt:msx-white:OTT-PLAY}: впиши сюда короткое описание приложения",
+              "text": "{txt:msx-white:OTT-PLAY by Alex}: популярный, универсальный, бесплатный медиаплеер для просмотра интернет-телевидения (IPTV) на Smart TV, ТВ-приставках и мобильных устройствах.",
               "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg=="
             }
           }
