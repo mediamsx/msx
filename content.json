@@ -116,8 +116,8 @@
           "selection": {
             "action": "[update:content:info-text|update:content:info-shot]",
             "data": {
-              "text": "{txt:msx-white:ATODO}: впиши сюда короткое описание приложения",
-              "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg=="
+              "text": "{txt:msx-white:ATODO}: бесплатный онлайн-кинотеатр и медиатека для просмотра фильмов, сериалов и мультфильмов.",
+              "image": "https://i.postimg.cc/cJ1Fg2bw/atodo-(1).png"
             }
           }
         },
@@ -131,8 +131,8 @@
           "selection": {
             "action": "[update:content:info-text|update:content:info-shot]",
             "data": {
-              "text": "{txt:msx-white:GetsTV}: впиши сюда короткое описание приложения",
-              "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg=="
+              "text": "{txt:msx-white:GetsTV}: популярное стороннее мультимедийное приложение для Smart TV, Android TV, медиаплееров и мобильных устройств, предназначенное для просмотра фильмов, сериалов, мультфильмов и телеканалов.",
+              "image": "https://i.postimg.cc/Z5LShkNg/getstv.png"
             }
           }
         },
@@ -146,8 +146,8 @@
           "selection": {
             "action": "[update:content:info-text|update:content:info-shot]",
             "data": {
-              "text": "{txt:msx-white:Filmix}: впиши сюда короткое описание приложения",
-              "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg=="
+              "text": "{txt:msx-white:Filmix}: Онлайн кинотеатр. Фильмы, мультфильмы и сериалы в отличном качестве. Требуется регистрация и аккаунт VIP | PRO ",
+              "image": "https://i.postimg.cc/cJKXBwdT/filmix.png"
             }
           }
         },
