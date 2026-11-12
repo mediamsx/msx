@@ -57,7 +57,7 @@
             "action": "[update:content:info-text|update:content:info-shot]",
             "data": {
               "text": "{txt:msx-white:OTT-PLAY by Alex}: популярный, универсальный, бесплатный медиаплеер для просмотра интернет-телевидения (IPTV) на Smart TV, ТВ-приставках и мобильных устройствах.",
-              "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg=="
+              "image": "https://i.postimg.cc/j5rrY81Y/ottplay.png"
             }
           }
         },
@@ -72,7 +72,7 @@
             "action": "[update:content:info-text|update:content:info-shot]",
             "data": {
               "text": "{txt:msx-white:OTT-PLAY Foss}: неофициальная, развиваемая энтузиастами модификация популярного IPTV-плеера OTT-PLAY by Alex. Устанавливается на большинство устройств для просмотра ТВ.",
-              "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg=="
+              "image": "https://i.postimg.cc/g02gX36v/foss.jpg"
             }
           }
         },
@@ -86,8 +86,8 @@
           "selection": {
             "action": "[update:content:info-text|update:content:info-shot]",
             "data": {
-              "text": "{txt:msx-white:ZONA}: впиши сюда короткое описание приложения",
-              "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg=="
+              "text": "{txt:msx-white:ZONA}: Zona.tube — lite версия проекта ZONA, легальный онлайн кинотеатр для смарт-тв и андроид с возможностью смотреть фильмы и сериалы бесплатно и без подписки.",
+              "image": "https://i.postimg.cc/xdNb4dwF/132-zona-download.jpg"
             }
           }
         },
