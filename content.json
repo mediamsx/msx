@@ -321,13 +321,13 @@
           "layout": "9,4,1,1",
           "offset": "0.94,0.73,-0.04,-0.04",
           "color": "rgba(0,0,0,0)",
-          "image": "https://i.postimg.cc/Zn68ss8f/vokino.png",
+          "image": "https://i.postimg.cc/YCmJphPS/vokino2.png",
           "action": "link: http://web.vokino.tv/",
           "selection": {
             "action": "[update:content:info-text|update:content:info-shot]",
             "data": {
-              "text": "{txt:msx-white:VoKino}: впиши сюда короткое описание приложения",
-              "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg=="
+              "text": "{txt:msx-white:VoKino}: популярное приложение-агрегатор для поиска и просмотра фильмов, сериалов, мультфильмов и другого видеоконтента на Smart TV, Android TV и приставках.",
+              "image": "https://i.postimg.cc/bYxrvwKb/vokino-(1).png"
             }
           }
         }
