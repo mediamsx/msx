@@ -18,7 +18,7 @@
           "id": "info-text",
           "type": "space",
           "layout": "0,1,4,2",
-          "offset": "0.4,0.4,-0.26,0.1",
+          "offset": "0.4,0.4,0,0.1",
           "color": "rgba(0,0,0,0.45)",
           "text": "Наведите на приложение, чтобы увидеть его описание"
         },
@@ -26,7 +26,7 @@
           "id": "info-shot",
           "type": "space",
           "layout": "0,3,4,2",
-          "offset": "0.4,0.6,-0.26,0.09",
+          "offset": "0.4,0.6,0,0.09",
           "color": "rgba(0,0,0,0.45)",
           "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg==",
           "imageFiller": "fit"
