@@ -27,7 +27,7 @@
           "type": "space",
           "layout": "0,3,4,2",
           "offset": "0.4,0.6,0,0.09",
-          "color": "rgba(0,0,0,0.45)",
+          "color": "rgba(0,0,0,0)",
           "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg==",
           "imageFiller": "fit"
         },
@@ -191,8 +191,8 @@
           "selection": {
             "action": "[update:content:info-text|update:content:info-shot]",
             "data": {
-              "text": "{txt:msx-white:ForkPlayer}: впиши сюда короткое описание приложения",
-              "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg=="
+              "text": "{txt:msx-white:ForkPlayer}: популярный неофициальный браузер для Smart TV, который позволяет бесплатно смотреть онлайн-видео, фильмы, сериалы, IPTV, слушать музыку и открывать сайты в едином интерфейсе, адаптированном под пульт телевизора.",
+              "image": "https://i.postimg.cc/WzmcLPG8/forkplayer-(1).png"
             }
           }
         },
@@ -206,8 +206,8 @@
           "selection": {
             "action": "[update:content:info-text|update:content:info-shot]",
             "data": {
-              "text": "{txt:msx-white:OTT Player}: впиши сюда короткое описание приложения",
-              "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg=="
+              "text": "{txt:msx-white:OTT Player}: бесплатный кроссплатформенный плеер для просмотра интернет-телевидения (IPTV / OTT), который позволяет объединять и воспроизводить видеопотоки на различных устройствах.",
+              "image": "https://i.postimg.cc/Y9fdt2Pk/ott-player.png"
             }
           }
         },
