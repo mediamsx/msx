@@ -221,8 +221,8 @@
           "selection": {
             "action": "[update:content:info-text|update:content:info-shot]",
             "data": {
-              "text": "{txt:msx-white:Akter Black}: впиши сюда короткое описание приложения",
-              "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg=="
+              "text": "{txt:msx-white:AKTER.BLACK}: кроссплатформенный онлайн-кинотеатр и сервис для просмотра каталога фильмов и сериалов.",
+              "image": "https://i.postimg.cc/sDSqLyjX/akter-black.png"
             }
           }
         },
@@ -236,8 +236,8 @@
           "selection": {
             "action": "[update:content:info-text|update:content:info-shot]",
             "data": {
-              "text": "{txt:msx-white:UA KINO}: впиши сюда короткое описание приложения",
-              "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg=="
+              "text": "{txt:msx-white:UA KINO}: популярный онлайн-кинотеатр и медиаплатформа для просмотра фильмов, сериалов, мультфильмов и аниме с украинским дубляжом или озвучкой.",
+              "image": "https://i.postimg.cc/T1T5XT83/ua-kino.png"
             }
           }
         },
