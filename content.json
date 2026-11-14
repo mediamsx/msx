@@ -370,7 +370,7 @@
           "selection": {
             "action": "[update:content:info-text-2|update:content:info-shot-2]",
             "data": {
-              "text": {txt:msx-white:SHARA-CLUB}: популярный провайдер цифровых услуг, который работает на рынке кардшаринга и развивает направление интернет-телевидения (IPTV/OTT).",
+              "text": "{txt:msx-white:AKTER.BLACK}: кроссплатформенный онлайн-кинотеатр и сервис для просмотра каталога фильмов и сериалов.",
               "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg=="
             }
           }
