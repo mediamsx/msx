@@ -1,6 +1,6 @@
 {
   "name": "MediaBox Portal",
-  "version": "1.6.1",
+  "version": "1.7.0",
   "type": "pages",
   "background": "https://i.postimg.cc/CMCcTFWj/background.jpg",
   "pages": [
@@ -20,7 +20,7 @@
           "layout": "0,1,4,2",
           "offset": "0.4,0.4,0.25,0.1",
           "color": "rgba(0,0,0,0)",
-          "text": "Наведите на приложение (тест)"
+          "text": "Наведите на приложение, чтобы увидеть его описание"
         },
         {
           "id": "info-shot",
@@ -78,8 +78,8 @@
         },
         {
           "id": "team-play",
-          "layout": "8,4,1,1",
-          "offset": "0.73,0.73,-0.04,-0.04",
+          "layout": "8,1,1,1",
+          "offset": "0.73,0.40,-0.04,-0.04",
           "color": "rgba(0,0,0,0)",
           "image": "https://i.postimg.cc/HsdhJZ8j/tv-team.png",
           "action": "menu:https://teamplay.city/msx/menu.json",
@@ -93,8 +93,8 @@
         },
         {
           "id": "ua-kino",
-          "layout": "8,3,1,1",
-          "offset": "0.73,0.62,-0.04,-0.04",
+          "layout": "9,1,1,1",
+          "offset": "0.94,0.40,-0.04,-0.04",
           "color": "rgba(0,0,0,0)",
           "image": "https://i.postimg.cc/hvqFhnTS/ua-kino.png",
           "action": "menu:http://uakino.ax/msx/menu.json",
@@ -108,8 +108,8 @@
         },
         {
           "id": "filmix",
-          "layout": "7,2,1,1",
-          "offset": "0.52,0.51,-0.04,-0.04",
+          "layout": "5,2,1,1",
+          "offset": "0.10,0.51,-0.04,-0.04",
           "color": "rgba(0,0,0,0)",
           "image": "https://i.postimg.cc/Jh7mNZTq/filmix.png",
           "action": "link:http://filmix.tv/",
@@ -123,8 +123,8 @@
         },
         {
           "id": "zona",
-          "layout": "8,1,1,1",
-          "offset": "0.73,0.40,-0.04,-0.04",
+          "layout": "6,2,1,1",
+          "offset": "0.31,0.51,-0.04,-0.04",
           "color": "rgba(0,0,0,0)",
           "image": "https://i.postimg.cc/W4bKPBNy/zona1.png",
           "action": "link:https://msx.zona.ms",
@@ -138,8 +138,8 @@
         },
         {
           "id": "atodo",
-          "layout": "5,2,1,1",
-          "offset": "0.10,0.51,-0.04,-0.04",
+          "layout": "7,2,1,1",
+          "offset": "0.52,0.51,-0.04,-0.04",
           "color": "rgba(0,0,0,0)",
           "image": "https://i.postimg.cc/J0LkxpS9/atodo.png",
           "action": "menu:request:interaction:menu@http://atodo.fun/fun.html",
@@ -153,8 +153,8 @@
         },
         {
           "id": "prisma-tv",
-          "layout": "5,4,1,1",
-          "offset": "0.10,0.73,-0.04,-0.04",
+          "layout": "8,2,1,1",
+          "offset": "0.73,0.51,-0.04,-0.04",
           "color": "rgba(0,0,0,0)",
           "image": "https://i.postimg.cc/cHmQvJ7s/prisma.png",
           "action": "link:https://prisma.ws",
@@ -168,8 +168,8 @@
         },
         {
           "id": "lift",
-          "layout": "6,4,1,1",
-          "offset": "0.31,0.73,-0.04,-0.04",
+          "layout": "9,2,1,1",
+          "offset": "0.94,0.51,-0.04,-0.04",
           "color": "rgba(0,0,0,0)",
           "image": "https://i.postimg.cc/bJ8xYnnG/lift.png",
           "action": "menu:request:interaction:menu@http://lift3.ws/msx/",
@@ -183,8 +183,8 @@
         },
         {
           "id": "lampa",
-          "layout": "9,1,1,1",
-          "offset": "0.94,0.40,-0.04,-0.04",
+          "layout": "5,3,1,1",
+          "offset": "0.10,0.62,-0.04,-0.04",
           "color": "rgba(0,0,0,0)",
           "image": "https://i.postimg.cc/KYxKc5wD/lampa2.png",
           "action": "link:http://lampa.mx",
@@ -198,8 +198,8 @@
         },
         {
           "id": "vi3000",
-          "layout": "7,4,1,1",
-          "offset": "0.52,0.73,-0.04,-0.04",
+          "layout": "6,3,1,1",
+          "offset": "0.31,0.62,-0.04,-0.04",
           "color": "rgba(0,0,0,0)",
           "image": "https://i.postimg.cc/YChGDyfn/vi3000.png",
           "action": "content:http://vi3000.top/msx/start.json",
@@ -213,8 +213,8 @@
         },
         {
           "id": "vokino",
-          "layout": "9,4,1,1",
-          "offset": "0.94,0.73,-0.04,-0.04",
+          "layout": "7,3,1,1",
+          "offset": "0.52,0.62,-0.04,-0.04",
           "color": "rgba(0,0,0,0)",
           "image": "https://i.postimg.cc/YCmJphPS/vokino2.png",
           "action": "link: http://web.vokino.tv/",
@@ -228,8 +228,8 @@
         },
         {
           "id": "youtube",
-          "layout": "8,2,1,1",
-          "offset": "0.73,0.51,-0.04,-0.04",
+          "layout": "8,3,1,1",
+          "offset": "0.73,0.62,-0.04,-0.04",
           "color": "rgba(0,0,0,0)",
           "image": "https://i.postimg.cc/3wr7XmLX/youtube.png",
           "action": "link:https://www.youtube.com/tv",
@@ -258,8 +258,8 @@
         },
         {
           "id": "deeplex",
-          "layout": "9,2,1,1",
-          "offset": "0.94,0.51,-0.04,-0.04",
+          "layout": "5,4,1,1",
+          "offset": "0.10,0.73,-0.04,-0.04",
           "color": "rgba(0,0,0,0)",
           "image": "https://i.postimg.cc/522Q0YB2/deeplex1.png",
           "action": "link:http://smart.deeplex.cc/",
@@ -273,8 +273,8 @@
         },
         {
           "id": "forkplayer",
-          "layout": "5,3,1,1",
-          "offset": "0.10,0.62,-0.04,-0.04",
+          "layout": "6,4,1,1",
+          "offset": "0.31,0.73,-0.04,-0.04",
           "color": "rgba(0,0,0,0)",
           "image": "https://i.postimg.cc/yxcw48QH/forkplayer.png",
           "action": "link:http://browser.appfxml.com/",
@@ -288,8 +288,8 @@
         },
         {
           "id": "ottplayer",
-          "layout": "6,3,1,1",
-          "offset": "0.31,0.62,-0.04,-0.04",
+          "layout": "7,4,1,1",
+          "offset": "0.52,0.73,-0.04,-0.04",
           "color": "rgba(0,0,0,0)",
           "image": "https://i.postimg.cc/pdR9VB4Q/ottplayer.png",
           "action": "link:http://widget.ottplayer.tv",
@@ -303,8 +303,8 @@
         },
         {
           "id": "akter",
-          "layout": "7,3,1,1",
-          "offset": "0.52,0.62,-0.04,-0.04",
+          "layout": "8,4,1,1",
+          "offset": "0.73,0.73,-0.04,-0.04",
           "color": "rgba(0,0,0,0)",
           "image": "https://i.postimg.cc/W49nzcFW/akter-black.png",
           "action": "link:http://abvidaa.ru/",
@@ -318,8 +318,8 @@
         },
         {
           "id": "getstv",
-          "layout": "6,2,1,1",
-          "offset": "0.31,0.51,-0.04,-0.04",
+          "layout": "9,4,1,1",
+          "offset": "0.94,0.73,-0.04,-0.04",
           "color": "rgba(0,0,0,0)",
           "image": "https://i.postimg.cc/0ytLD3L1/gets-tv1.png",
           "action": "panel:http://lg.getstv.ru/msx/msx.json",
