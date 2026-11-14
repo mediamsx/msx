@@ -365,7 +365,7 @@
           "layout": "5,1,1,1",
           "offset": "0.10,0.40,-0.04,-0.04",
           "color": "rgba(255,255,255,0.07)",
-          "action": "info:Свободное место",
+          "action": "link:https://sh.qqtv.in",
           "selection": {
             "action": "[update:content:info-text-2|update:content:info-shot-2]",
             "data": {
