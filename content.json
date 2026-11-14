@@ -252,7 +252,7 @@
             "action": "[update:content:info-text|update:content:info-shot]",
             "data": {
               "text": "{txt:msx-white:YouTube Kids}: впиши сюда короткое описание приложения",
-              "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg=="
+              "image": "https://i.postimg.cc/d0w1gKhh/youtube-kids.png"
             }
           }
         },
@@ -267,7 +267,7 @@
             "action": "[update:content:info-text|update:content:info-shot]",
             "data": {
               "text": "{txt:msx-white:Prisma TV}: впиши сюда короткое описание приложения",
-              "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg=="
+              "image": "https://i.postimg.cc/fbDL1hVR/prisma.png"
             }
           }
         },
@@ -282,7 +282,7 @@
             "action": "[update:content:info-text|update:content:info-shot]",
             "data": {
               "text": "{txt:msx-white:Lift}: впиши сюда короткое описание приложения",
-              "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg=="
+              "image": "https://i.postimg.cc/VNm62cJv/lift.png"
             }
           }
         },
@@ -297,7 +297,7 @@
             "action": "[update:content:info-text|update:content:info-shot]",
             "data": {
               "text": "{txt:msx-white:VI3000}: впиши сюда короткое описание приложения",
-              "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg=="
+              "image": "https://i.postimg.cc/FKNRwQYR/vi3000-(1).png"
             }
           }
         },
@@ -306,7 +306,7 @@
           "layout": "8,4,1,1",
           "offset": "0.73,0.73,-0.04,-0.04",
           "color": "rgba(0,0,0,0)",
-          "image": "https://i.postimg.cc/GpXNQKrQ/lampa-run.png",
+          "image": "https://i.postimg.cc/HsdhJZ8j/tv-team.png",
           "action": "menu:https://teamplay.city/msx/menu.json",
           "selection": {
             "action": "[update:content:info-text|update:content:info-shot]",
