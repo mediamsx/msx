@@ -361,16 +361,15 @@
           "imageFiller": "fit"
         },
         {
-          "id": "shara club",
+          "id": "empty-1",
           "layout": "5,1,1,1",
           "offset": "0.10,0.40,-0.04,-0.04",
-          "color": "rgba(0,0,0,0)",
-          "image": "https://i.postimg.cc/TPV3qj66/shara.png",
-          "action": "link:https://sh.qqtv.in",
+          "color": "rgba(255,255,255,0.07)",
+          "action": "info:Свободное место",
           "selection": {
             "action": "[update:content:info-text-2|update:content:info-shot-2]",
             "data": {
-              "text": "{txt:msx-white:AKTER.BLACK}: кроссплатформенный онлайн-кинотеатр и сервис для просмотра каталога фильмов и сериалов.",
+              "text": "Свободное место для нового приложения",
               "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg=="
             }
           }
