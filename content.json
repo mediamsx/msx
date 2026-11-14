@@ -251,7 +251,7 @@
           "selection": {
             "action": "[update:content:info-text|update:content:info-shot]",
             "data": {
-              "text": "{txt:msx-white:YouTube Kids}: впиши сюда короткое описание приложения",
+              "text": "{txt:msx-white:YouTube Kids}: отдельная, более простая и безопасная версия видеосервиса YouTube, созданная специально для детей до 12 лет.",
               "image": "https://i.postimg.cc/d0w1gKhh/youtube-kids.png"
             }
           }
@@ -266,7 +266,7 @@
           "selection": {
             "action": "[update:content:info-text|update:content:info-shot]",
             "data": {
-              "text": "{txt:msx-white:Prisma TV}: впиши сюда короткое описание приложения",
+              "text": "{txt:msx-white:PRISMA TV}: онлайн-кинотеатр для Андроид с огромным выбором фильмов и сериалов, который постоянно обновляется и дополняется новыми релизами.",
               "image": "https://i.postimg.cc/fbDL1hVR/prisma.png"
             }
           }
@@ -281,7 +281,7 @@
           "selection": {
             "action": "[update:content:info-text|update:content:info-shot]",
             "data": {
-              "text": "{txt:msx-white:Lift}: впиши сюда короткое описание приложения",
+              "text": "{txt:msx-white:LIFT}: бесплатный неофициальный онлайн-кинотеатр, предназначенный для просмотра фильмов, сериалов и мультфильмов на мобильных устройствах и телевизорах.",
               "image": "https://i.postimg.cc/VNm62cJv/lift.png"
             }
           }
@@ -296,7 +296,7 @@
           "selection": {
             "action": "[update:content:info-text|update:content:info-shot]",
             "data": {
-              "text": "{txt:msx-white:VI3000}: впиши сюда короткое описание приложения",
+              "text": "{txt:msx-white:VI3000}: неофициальный стриминговый веб-сервис (онлайн-кинотеатр) для бесплатного просмотра фильмов, сериалов, мультфильмов и аниме на телевизорах и других устройствах.",
               "image": "https://i.postimg.cc/FKNRwQYR/vi3000-(1).png"
             }
           }
@@ -311,8 +311,8 @@
           "selection": {
             "action": "[update:content:info-text|update:content:info-shot]",
             "data": {
-              "text": "{txt:msx-white:Lampa Run}: впиши сюда короткое описание приложения",
-              "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg=="
+              "text": "{txt:msx-white:TV Team}: популярный зарубежный сервис интернет-телевидения (IPTV), предоставляющий доступ к большому количеству телеканалов, спортивных трансляций и медиатеке фильмов.",
+              "image": "https://i.postimg.cc/hjkPbJ7V/tv-team.png"
             }
           }
         },
