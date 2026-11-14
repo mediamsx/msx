@@ -1,6 +1,6 @@
 {
   "name": "MediaBox Portal",
-  "version": "1.7.0",
+  "version": "1.8.0",
   "type": "pages",
   "background": "https://i.postimg.cc/CMCcTFWj/background.jpg",
   "pages": [
@@ -328,6 +328,315 @@
             "data": {
               "text": "{txt:msx-white:GetsTV}: популярное стороннее мультимедийное приложение для Smart TV, Android TV, медиаплееров и мобильных устройств, предназначенное для просмотра фильмов, сериалов, мультфильмов и телеканалов.",
               "image": "https://i.postimg.cc/Z5LShkNg/getstv.png"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "type": "space",
+          "layout": "4,0,4,2",
+          "offset": "0,-0.7,0,0",
+          "color": "rgba(0,0,0,0)",
+          "image": "https://i.postimg.cc/QdJBL19x/logo-vertical.png",
+          "imageFiller": "fit"
+        },
+        {
+          "id": "info-text",
+          "type": "space",
+          "layout": "0,1,4,2",
+          "offset": "0.4,0.4,0.25,0.1",
+          "color": "rgba(0,0,0,0)",
+          "text": "Наведите на приложение, чтобы увидеть его описание"
+        },
+        {
+          "id": "info-shot",
+          "type": "space",
+          "layout": "0,3,4,2",
+          "offset": "0.4,0.6,0,0.09",
+          "color": "rgba(0,0,0,0)",
+          "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg==",
+          "imageFiller": "fit"
+        },
+        {
+          "id": "empty-1",
+          "layout": "5,1,1,1",
+          "offset": "0.10,0.40,-0.04,-0.04",
+          "color": "rgba(255,255,255,0.07)",
+          "action": "info:Свободное место",
+          "selection": {
+            "action": "[update:content:info-text|update:content:info-shot]",
+            "data": {
+              "text": "Свободное место для нового приложения",
+              "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg=="
+            }
+          }
+        },
+        {
+          "id": "empty-2",
+          "layout": "6,1,1,1",
+          "offset": "0.31,0.40,-0.04,-0.04",
+          "color": "rgba(255,255,255,0.07)",
+          "action": "info:Свободное место",
+          "selection": {
+            "action": "[update:content:info-text|update:content:info-shot]",
+            "data": {
+              "text": "Свободное место для нового приложения",
+              "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg=="
+            }
+          }
+        },
+        {
+          "id": "empty-3",
+          "layout": "7,1,1,1",
+          "offset": "0.52,0.40,-0.04,-0.04",
+          "color": "rgba(255,255,255,0.07)",
+          "action": "info:Свободное место",
+          "selection": {
+            "action": "[update:content:info-text|update:content:info-shot]",
+            "data": {
+              "text": "Свободное место для нового приложения",
+              "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg=="
+            }
+          }
+        },
+        {
+          "id": "empty-4",
+          "layout": "8,1,1,1",
+          "offset": "0.73,0.40,-0.04,-0.04",
+          "color": "rgba(255,255,255,0.07)",
+          "action": "info:Свободное место",
+          "selection": {
+            "action": "[update:content:info-text|update:content:info-shot]",
+            "data": {
+              "text": "Свободное место для нового приложения",
+              "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg=="
+            }
+          }
+        },
+        {
+          "id": "empty-5",
+          "layout": "9,1,1,1",
+          "offset": "0.94,0.40,-0.04,-0.04",
+          "color": "rgba(255,255,255,0.07)",
+          "action": "info:Свободное место",
+          "selection": {
+            "action": "[update:content:info-text|update:content:info-shot]",
+            "data": {
+              "text": "Свободное место для нового приложения",
+              "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg=="
+            }
+          }
+        },
+        {
+          "id": "empty-6",
+          "layout": "5,2,1,1",
+          "offset": "0.10,0.51,-0.04,-0.04",
+          "color": "rgba(255,255,255,0.07)",
+          "action": "info:Свободное место",
+          "selection": {
+            "action": "[update:content:info-text|update:content:info-shot]",
+            "data": {
+              "text": "Свободное место для нового приложения",
+              "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg=="
+            }
+          }
+        },
+        {
+          "id": "empty-7",
+          "layout": "6,2,1,1",
+          "offset": "0.31,0.51,-0.04,-0.04",
+          "color": "rgba(255,255,255,0.07)",
+          "action": "info:Свободное место",
+          "selection": {
+            "action": "[update:content:info-text|update:content:info-shot]",
+            "data": {
+              "text": "Свободное место для нового приложения",
+              "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg=="
+            }
+          }
+        },
+        {
+          "id": "empty-8",
+          "layout": "7,2,1,1",
+          "offset": "0.52,0.51,-0.04,-0.04",
+          "color": "rgba(255,255,255,0.07)",
+          "action": "info:Свободное место",
+          "selection": {
+            "action": "[update:content:info-text|update:content:info-shot]",
+            "data": {
+              "text": "Свободное место для нового приложения",
+              "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg=="
+            }
+          }
+        },
+        {
+          "id": "empty-9",
+          "layout": "8,2,1,1",
+          "offset": "0.73,0.51,-0.04,-0.04",
+          "color": "rgba(255,255,255,0.07)",
+          "action": "info:Свободное место",
+          "selection": {
+            "action": "[update:content:info-text|update:content:info-shot]",
+            "data": {
+              "text": "Свободное место для нового приложения",
+              "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg=="
+            }
+          }
+        },
+        {
+          "id": "empty-10",
+          "layout": "9,2,1,1",
+          "offset": "0.94,0.51,-0.04,-0.04",
+          "color": "rgba(255,255,255,0.07)",
+          "action": "info:Свободное место",
+          "selection": {
+            "action": "[update:content:info-text|update:content:info-shot]",
+            "data": {
+              "text": "Свободное место для нового приложения",
+              "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg=="
+            }
+          }
+        },
+        {
+          "id": "empty-11",
+          "layout": "5,3,1,1",
+          "offset": "0.10,0.62,-0.04,-0.04",
+          "color": "rgba(255,255,255,0.07)",
+          "action": "info:Свободное место",
+          "selection": {
+            "action": "[update:content:info-text|update:content:info-shot]",
+            "data": {
+              "text": "Свободное место для нового приложения",
+              "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg=="
+            }
+          }
+        },
+        {
+          "id": "empty-12",
+          "layout": "6,3,1,1",
+          "offset": "0.31,0.62,-0.04,-0.04",
+          "color": "rgba(255,255,255,0.07)",
+          "action": "info:Свободное место",
+          "selection": {
+            "action": "[update:content:info-text|update:content:info-shot]",
+            "data": {
+              "text": "Свободное место для нового приложения",
+              "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg=="
+            }
+          }
+        },
+        {
+          "id": "empty-13",
+          "layout": "7,3,1,1",
+          "offset": "0.52,0.62,-0.04,-0.04",
+          "color": "rgba(255,255,255,0.07)",
+          "action": "info:Свободное место",
+          "selection": {
+            "action": "[update:content:info-text|update:content:info-shot]",
+            "data": {
+              "text": "Свободное место для нового приложения",
+              "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg=="
+            }
+          }
+        },
+        {
+          "id": "empty-14",
+          "layout": "8,3,1,1",
+          "offset": "0.73,0.62,-0.04,-0.04",
+          "color": "rgba(255,255,255,0.07)",
+          "action": "info:Свободное место",
+          "selection": {
+            "action": "[update:content:info-text|update:content:info-shot]",
+            "data": {
+              "text": "Свободное место для нового приложения",
+              "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg=="
+            }
+          }
+        },
+        {
+          "id": "empty-15",
+          "layout": "9,3,1,1",
+          "offset": "0.94,0.62,-0.04,-0.04",
+          "color": "rgba(255,255,255,0.07)",
+          "action": "info:Свободное место",
+          "selection": {
+            "action": "[update:content:info-text|update:content:info-shot]",
+            "data": {
+              "text": "Свободное место для нового приложения",
+              "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg=="
+            }
+          }
+        },
+        {
+          "id": "empty-16",
+          "layout": "5,4,1,1",
+          "offset": "0.10,0.73,-0.04,-0.04",
+          "color": "rgba(255,255,255,0.07)",
+          "action": "info:Свободное место",
+          "selection": {
+            "action": "[update:content:info-text|update:content:info-shot]",
+            "data": {
+              "text": "Свободное место для нового приложения",
+              "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg=="
+            }
+          }
+        },
+        {
+          "id": "empty-17",
+          "layout": "6,4,1,1",
+          "offset": "0.31,0.73,-0.04,-0.04",
+          "color": "rgba(255,255,255,0.07)",
+          "action": "info:Свободное место",
+          "selection": {
+            "action": "[update:content:info-text|update:content:info-shot]",
+            "data": {
+              "text": "Свободное место для нового приложения",
+              "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg=="
+            }
+          }
+        },
+        {
+          "id": "empty-18",
+          "layout": "7,4,1,1",
+          "offset": "0.52,0.73,-0.04,-0.04",
+          "color": "rgba(255,255,255,0.07)",
+          "action": "info:Свободное место",
+          "selection": {
+            "action": "[update:content:info-text|update:content:info-shot]",
+            "data": {
+              "text": "Свободное место для нового приложения",
+              "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg=="
+            }
+          }
+        },
+        {
+          "id": "empty-19",
+          "layout": "8,4,1,1",
+          "offset": "0.73,0.73,-0.04,-0.04",
+          "color": "rgba(255,255,255,0.07)",
+          "action": "info:Свободное место",
+          "selection": {
+            "action": "[update:content:info-text|update:content:info-shot]",
+            "data": {
+              "text": "Свободное место для нового приложения",
+              "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg=="
+            }
+          }
+        },
+        {
+          "id": "empty-20",
+          "layout": "9,4,1,1",
+          "offset": "0.94,0.73,-0.04,-0.04",
+          "color": "rgba(255,255,255,0.07)",
+          "action": "info:Свободное место",
+          "selection": {
+            "action": "[update:content:info-text|update:content:info-shot]",
+            "data": {
+              "text": "Свободное место для нового приложения",
+              "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg=="
             }
           }
         }
