@@ -302,12 +302,12 @@
           }
         },
         {
-          "id": "lampa-run",
+          "id": "team-play",
           "layout": "8,4,1,1",
           "offset": "0.73,0.73,-0.04,-0.04",
           "color": "rgba(0,0,0,0)",
           "image": "https://i.postimg.cc/GpXNQKrQ/lampa-run.png",
-          "action": "link:http://lampa.run",
+          "action": "menu:https://teamplay.city/msx/menu.json",
           "selection": {
             "action": "[update:content:info-text|update:content:info-shot]",
             "data": {
