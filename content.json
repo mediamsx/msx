@@ -1,6 +1,6 @@
 {
   "name": "MediaBox Portal",
-  "version": "1.8.0",
+  "version": "1.8.1",
   "type": "pages",
   "background": "https://i.postimg.cc/CMCcTFWj/background.jpg",
   "pages": [
@@ -344,7 +344,7 @@
           "imageFiller": "fit"
         },
         {
-          "id": "info-text",
+          "id": "info-text-2",
           "type": "space",
           "layout": "0,1,4,2",
           "offset": "0.4,0.4,0.25,0.1",
@@ -352,7 +352,7 @@
           "text": "Наведите на приложение, чтобы увидеть его описание"
         },
         {
-          "id": "info-shot",
+          "id": "info-shot-2",
           "type": "space",
           "layout": "0,3,4,2",
           "offset": "0.4,0.6,0,0.09",
@@ -367,7 +367,7 @@
           "color": "rgba(255,255,255,0.07)",
           "action": "info:Свободное место",
           "selection": {
-            "action": "[update:content:info-text|update:content:info-shot]",
+            "action": "[update:content:info-text-2|update:content:info-shot-2]",
             "data": {
               "text": "Свободное место для нового приложения",
               "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg=="
@@ -381,7 +381,7 @@
           "color": "rgba(255,255,255,0.07)",
           "action": "info:Свободное место",
           "selection": {
-            "action": "[update:content:info-text|update:content:info-shot]",
+            "action": "[update:content:info-text-2|update:content:info-shot-2]",
             "data": {
               "text": "Свободное место для нового приложения",
               "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg=="
@@ -395,7 +395,7 @@
           "color": "rgba(255,255,255,0.07)",
           "action": "info:Свободное место",
           "selection": {
-            "action": "[update:content:info-text|update:content:info-shot]",
+            "action": "[update:content:info-text-2|update:content:info-shot-2]",
             "data": {
               "text": "Свободное место для нового приложения",
               "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg=="
@@ -409,7 +409,7 @@
           "color": "rgba(255,255,255,0.07)",
           "action": "info:Свободное место",
           "selection": {
-            "action": "[update:content:info-text|update:content:info-shot]",
+            "action": "[update:content:info-text-2|update:content:info-shot-2]",
             "data": {
               "text": "Свободное место для нового приложения",
               "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg=="
@@ -423,7 +423,7 @@
           "color": "rgba(255,255,255,0.07)",
           "action": "info:Свободное место",
           "selection": {
-            "action": "[update:content:info-text|update:content:info-shot]",
+            "action": "[update:content:info-text-2|update:content:info-shot-2]",
             "data": {
               "text": "Свободное место для нового приложения",
               "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg=="
@@ -437,7 +437,7 @@
           "color": "rgba(255,255,255,0.07)",
           "action": "info:Свободное место",
           "selection": {
-            "action": "[update:content:info-text|update:content:info-shot]",
+            "action": "[update:content:info-text-2|update:content:info-shot-2]",
             "data": {
               "text": "Свободное место для нового приложения",
               "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg=="
@@ -451,7 +451,7 @@
           "color": "rgba(255,255,255,0.07)",
           "action": "info:Свободное место",
           "selection": {
-            "action": "[update:content:info-text|update:content:info-shot]",
+            "action": "[update:content:info-text-2|update:content:info-shot-2]",
             "data": {
               "text": "Свободное место для нового приложения",
               "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg=="
@@ -465,7 +465,7 @@
           "color": "rgba(255,255,255,0.07)",
           "action": "info:Свободное место",
           "selection": {
-            "action": "[update:content:info-text|update:content:info-shot]",
+            "action": "[update:content:info-text-2|update:content:info-shot-2]",
             "data": {
               "text": "Свободное место для нового приложения",
               "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg=="
@@ -479,7 +479,7 @@
           "color": "rgba(255,255,255,0.07)",
           "action": "info:Свободное место",
           "selection": {
-            "action": "[update:content:info-text|update:content:info-shot]",
+            "action": "[update:content:info-text-2|update:content:info-shot-2]",
             "data": {
               "text": "Свободное место для нового приложения",
               "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg=="
@@ -493,7 +493,7 @@
           "color": "rgba(255,255,255,0.07)",
           "action": "info:Свободное место",
           "selection": {
-            "action": "[update:content:info-text|update:content:info-shot]",
+            "action": "[update:content:info-text-2|update:content:info-shot-2]",
             "data": {
               "text": "Свободное место для нового приложения",
               "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg=="
@@ -507,7 +507,7 @@
           "color": "rgba(255,255,255,0.07)",
           "action": "info:Свободное место",
           "selection": {
-            "action": "[update:content:info-text|update:content:info-shot]",
+            "action": "[update:content:info-text-2|update:content:info-shot-2]",
             "data": {
               "text": "Свободное место для нового приложения",
               "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg=="
@@ -521,7 +521,7 @@
           "color": "rgba(255,255,255,0.07)",
           "action": "info:Свободное место",
           "selection": {
-            "action": "[update:content:info-text|update:content:info-shot]",
+            "action": "[update:content:info-text-2|update:content:info-shot-2]",
             "data": {
               "text": "Свободное место для нового приложения",
               "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg=="
@@ -535,7 +535,7 @@
           "color": "rgba(255,255,255,0.07)",
           "action": "info:Свободное место",
           "selection": {
-            "action": "[update:content:info-text|update:content:info-shot]",
+            "action": "[update:content:info-text-2|update:content:info-shot-2]",
             "data": {
               "text": "Свободное место для нового приложения",
               "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg=="
@@ -549,7 +549,7 @@
           "color": "rgba(255,255,255,0.07)",
           "action": "info:Свободное место",
           "selection": {
-            "action": "[update:content:info-text|update:content:info-shot]",
+            "action": "[update:content:info-text-2|update:content:info-shot-2]",
             "data": {
               "text": "Свободное место для нового приложения",
               "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg=="
@@ -563,7 +563,7 @@
           "color": "rgba(255,255,255,0.07)",
           "action": "info:Свободное место",
           "selection": {
-            "action": "[update:content:info-text|update:content:info-shot]",
+            "action": "[update:content:info-text-2|update:content:info-shot-2]",
             "data": {
               "text": "Свободное место для нового приложения",
               "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg=="
@@ -577,7 +577,7 @@
           "color": "rgba(255,255,255,0.07)",
           "action": "info:Свободное место",
           "selection": {
-            "action": "[update:content:info-text|update:content:info-shot]",
+            "action": "[update:content:info-text-2|update:content:info-shot-2]",
             "data": {
               "text": "Свободное место для нового приложения",
               "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg=="
@@ -591,7 +591,7 @@
           "color": "rgba(255,255,255,0.07)",
           "action": "info:Свободное место",
           "selection": {
-            "action": "[update:content:info-text|update:content:info-shot]",
+            "action": "[update:content:info-text-2|update:content:info-shot-2]",
             "data": {
               "text": "Свободное место для нового приложения",
               "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg=="
@@ -605,7 +605,7 @@
           "color": "rgba(255,255,255,0.07)",
           "action": "info:Свободное место",
           "selection": {
-            "action": "[update:content:info-text|update:content:info-shot]",
+            "action": "[update:content:info-text-2|update:content:info-shot-2]",
             "data": {
               "text": "Свободное место для нового приложения",
               "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg=="
@@ -619,7 +619,7 @@
           "color": "rgba(255,255,255,0.07)",
           "action": "info:Свободное место",
           "selection": {
-            "action": "[update:content:info-text|update:content:info-shot]",
+            "action": "[update:content:info-text-2|update:content:info-shot-2]",
             "data": {
               "text": "Свободное место для нового приложения",
               "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg=="
@@ -633,7 +633,7 @@
           "color": "rgba(255,255,255,0.07)",
           "action": "info:Свободное место",
           "selection": {
-            "action": "[update:content:info-text|update:content:info-shot]",
+            "action": "[update:content:info-text-2|update:content:info-shot-2]",
             "data": {
               "text": "Свободное место для нового приложения",
               "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg=="
