@@ -66,7 +66,7 @@
           "layout": "7,1,1,1",
           "offset": "0.52,0.40,-0.04,-0.04",
           "color": "rgba(0,0,0,0)",
-          "image": "https://i.postimg.cc/7Ln9ky9s/ott-play-foss.png",
+          "image": "https://i.postimg.cc/1tM5QBWp/foss.png",
           "action": "link:http://ott.prog4food.eu.org/f/",
           "selection": {
             "action": "[update:content:info-text|update:content:info-shot]",
@@ -96,7 +96,7 @@
           "layout": "9,1,1,1",
           "offset": "0.94,0.40,-0.04,-0.04",
           "color": "rgba(0,0,0,0)",
-          "image": "https://i.postimg.cc/hvqFhnTS/ua-kino.png",
+          "image": "https://i.postimg.cc/SKFW2Qmd/ua-kino1.png",
           "action": "menu:http://uakino.ax/msx/menu.json",
           "selection": {
             "action": "[update:content:info-text|update:content:info-shot]",
@@ -156,7 +156,7 @@
           "layout": "8,2,1,1",
           "offset": "0.73,0.51,-0.04,-0.04",
           "color": "rgba(0,0,0,0)",
-          "image": "https://i.postimg.cc/cHmQvJ7s/prisma.png",
+          "image": "https://i.postimg.cc/rmgFkjh9/prisma1.png",
           "action": "link:https://prisma.ws",
           "selection": {
             "action": "[update:content:info-text|update:content:info-shot]",
@@ -291,7 +291,7 @@
           "layout": "7,4,1,1",
           "offset": "0.52,0.73,-0.04,-0.04",
           "color": "rgba(0,0,0,0)",
-          "image": "https://i.postimg.cc/pdR9VB4Q/ottplayer.png",
+          "image": "https://i.postimg.cc/bJLNhg6x/ottplayer1.png",
           "action": "link:http://widget.ottplayer.tv",
           "selection": {
             "action": "[update:content:info-text|update:content:info-shot]",
