@@ -186,7 +186,7 @@
           "layout": "5,3,1,1",
           "offset": "0.10,0.62,-0.04,-0.04",
           "color": "rgba(0,0,0,0)",
-          "image": "https://i.postimg.cc/KYxKc5wD/lampa2.png",
+          "image": "https://i.postimg.cc/3wDqXwMp/lampa3.png",
           "action": "link:http://lampa.mx",
           "selection": {
             "action": "[update:content:info-text|update:content:info-shot]",
@@ -406,31 +406,31 @@
           }
         },
         {
-          "id": "empty-4",
+          "id": "movielab",
           "layout": "8,1,1,1",
           "offset": "0.73,0.40,-0.04,-0.04",
           "color": "rgba(0,0,0,0)",
-          "image": "https://mediamsx.github.io/msx/slot.png",
-          "action": "info:Свободное место",
+          "image": "https://i.postimg.cc/PqZ6LFZ9/movielab.png",
+          "action": "menu:https://movielab.fun/msx/menu.json",
           "selection": {
             "action": "[update:content:info-text-2|update:content:info-shot-2]",
             "data": {
-              "text": "{txt:msx-white:НАЗВАНИЕ}: добавить описание",
+              "text": "{txt:msx-white:MOVIELAB}: бесплатный онлайн-кинотеатр и агрегатор видеоконтента для просмотра фильмов, сериалов и мультфильмов без платной подписки.",
               "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg=="
             }
           }
         },
         {
-          "id": "empty-5",
+          "id": "xsmart",
           "layout": "9,1,1,1",
           "offset": "0.94,0.40,-0.04,-0.04",
           "color": "rgba(0,0,0,0)",
-          "image": "https://mediamsx.github.io/msx/slot.png",
-          "action": "info:Свободное место",
+          "image": "https://i.postimg.cc/gjPrzrp7/xsmart.png",
+          "action": "link:http://app.xsmart.tv",
           "selection": {
             "action": "[update:content:info-text-2|update:content:info-shot-2]",
             "data": {
-              "text": "{txt:msx-white:НАЗВАНИЕ}: добавить описание",
+              "text": "{txt:msx-white:XSMART}: популярное кроссплатформенное приложение и цифровой медиасервис для просмотра фильмов, сериалов, мультфильмов и телевидения в высоком качестве.",
               "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg=="
             }
           }
