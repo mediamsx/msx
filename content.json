@@ -436,76 +436,76 @@
           }
         },
         {
-          "id": "empty-6",
+          "id": "tutkino",
           "layout": "5,2,1,1",
           "offset": "0.10,0.51,-0.04,-0.04",
           "color": "rgba(0,0,0,0)",
-          "image": "https://mediamsx.github.io/msx/slot.png",
-          "action": "info:Свободное место",
+          "image": "https://i.postimg.cc/Df9JsYdM/tutkino.png",
+          "action": "link:http://web.tutkino.fun",
           "selection": {
             "action": "[update:content:info-text-2|update:content:info-shot-2]",
             "data": {
-              "text": "{txt:msx-white:НАЗВАНИЕ}: добавить описание",
+              "text": "{txt:msx-white:TUTKINO}: веб-портал и медиа-виджет для Smart TV, предоставляющий структурированный каталог ссылок на фильмы, сериалы, мультфильмы и IPTV-каналы.",
               "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg=="
             }
           }
         },
         {
-          "id": "empty-7",
+          "id": "kinoboom",
           "layout": "6,2,1,1",
           "offset": "0.31,0.51,-0.04,-0.04",
           "color": "rgba(0,0,0,0)",
-          "image": "https://mediamsx.github.io/msx/slot.png",
-          "action": "info:Свободное место",
+          "image": "https://i.postimg.cc/7LPyf7sv/kinoboom.png",
+          "action": "execute:info:extended:http://kb-team.club/msx/enter.php",
           "selection": {
             "action": "[update:content:info-text-2|update:content:info-shot-2]",
             "data": {
-              "text": "{txt:msx-white:НАЗВАНИЕ}: добавить описание",
+              "text": "{txt:msx-white:KINOBOOM}: популярный кроссплатформенный сервис и проект, представляющий собой упорядоченные плейлисты со ссылками на медиаконтент из открытых источников.",
               "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg=="
             }
           }
         },
         {
-          "id": "empty-8",
+          "id": "KION",
           "layout": "7,2,1,1",
           "offset": "0.52,0.51,-0.04,-0.04",
           "color": "rgba(0,0,0,0)",
-          "image": "https://mediamsx.github.io/msx/slot.png",
-          "action": "info:Свободное место",
+          "image": "https://i.postimg.cc/Qxn76k7J/KION.png",
+          "action": "link:https://kion.ru/EPG/smarttvlg/index.html",
           "selection": {
             "action": "[update:content:info-text-2|update:content:info-shot-2]",
             "data": {
-              "text": "{txt:msx-white:НАЗВАНИЕ}: добавить описание",
+              "text": "{txt:msx-white:KION}: российская мультимедийная онлайн-платформа и онлайн-кинотеатр, созданный экосистемой МТС.",
               "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg=="
             }
           }
         },
         {
-          "id": "empty-9",
+          "id": "KINOPOISK",
           "layout": "8,2,1,1",
           "offset": "0.73,0.51,-0.04,-0.04",
           "color": "rgba(0,0,0,0)",
-          "image": "https://mediamsx.github.io/msx/slot.png",
-          "action": "info:Свободное место",
+          "image": "https://i.postimg.cc/7YLsG9wv/KINOPOISK.png",
+          "action": "link:https://smarttv-app.ott.yandex.ru",
           "selection": {
             "action": "[update:content:info-text-2|update:content:info-shot-2]",
             "data": {
-              "text": "{txt:msx-white:НАЗВАНИЕ}: добавить описание",
+              "text": "{txt:msx-white:KINOPOISK}: крупнейший русскоязычный интернет-сервис о кино и телевидении, а также популярный онлайн-кинотеатр.",
               "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg=="
             }
           }
         },
         {
-          "id": "empty-10",
+          "id": "kinopub",
           "layout": "9,2,1,1",
           "offset": "0.94,0.51,-0.04,-0.04",
           "color": "rgba(0,0,0,0)",
-          "image": "https://mediamsx.github.io/msx/slot.png",
-          "action": "info:Свободное место",
+          "image": "https://i.postimg.cc/rFpn0jcB/KINOPUB.png",
+          "action": "link:http://kpms.cc/bootstrap.html",
           "selection": {
             "action": "[update:content:info-text-2|update:content:info-shot-2]",
             "data": {
-              "text": "{txt:msx-white:НАЗВАНИЕ}: добавить описание",
+              "text": "{txt:msx-white:KINOPUB}: популярный платный онлайн-сервис и неофициальный агрегатор видеоконтента, который объединяет фильмы, сериалы, мультфильмы, концерты и шоу из различных легальных стриминговых платформ.",
               "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg=="
             }
           }
