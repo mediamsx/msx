@@ -530,7 +530,7 @@
           "layout": "6,3,1,1",
           "offset": "0.31,0.62,-0.04,-0.04",
           "color": "rgba(0,0,0,0)",
-          "image": "https://mediamsx.github.io/msx/slot.png",
+          "image": "https://mediamsx.github.io/msx/icons/reelo.png",
           "action": "link:http://msx.reelo.ru/msx/app",
           "selection": {
             "action": "[update:content:info-text-2|update:content:info-shot-2]",
