@@ -526,16 +526,16 @@
           }
         },
         {
-          "id": "empty-12",
+          "id": "reelo",
           "layout": "6,3,1,1",
           "offset": "0.31,0.62,-0.04,-0.04",
           "color": "rgba(0,0,0,0)",
           "image": "https://mediamsx.github.io/msx/slot.png",
-          "action": "info:Свободное место",
+          "action": "link:http://msx.reelo.ru/msx/app",
           "selection": {
             "action": "[update:content:info-text-2|update:content:info-shot-2]",
             "data": {
-              "text": "{txt:msx-white:НАЗВАНИЕ}: добавить описание",
+              "text": "{txt:msx-white:REELO}: Стриминговая платформа и мобильное приложение с премиальной библиотекой короткометражных кинематографических сериалов.",
               "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg=="
             }
           }
