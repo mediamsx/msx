@@ -36,7 +36,7 @@
           "layout": "5,1,1,1",
           "offset": "0.10,0.40,-0.04,-0.04",
           "color": "rgba(0,0,0,0)",
-          "image": "https://i.postimg.cc/fRH6mF1G/drm-play1.png",
+          "image": "https://mediamsx.github.io/msx/icons/drm.png",
           "action": "link:http://ott.drm-play.com",
           "selection": {
             "action": "[update:content:info-text|update:content:info-shot]",
@@ -51,7 +51,7 @@
           "layout": "6,1,1,1",
           "offset": "0.31,0.40,-0.04,-0.04",
           "color": "rgba(0,0,0,0)",
-          "image": "https://mediamsx.github.io/msx/icons/ott.play.png",
+          "image": "https://mediamsx.github.io/msx/icons/ottplay.png",
           "action": "link:http://ott-play.com/f/",
           "selection": {
             "action": "[update:content:info-text|update:content:info-shot]",
@@ -66,7 +66,7 @@
           "layout": "7,1,1,1",
           "offset": "0.52,0.40,-0.04,-0.04",
           "color": "rgba(0,0,0,0)",
-          "image": "https://i.postimg.cc/1tM5QBWp/foss.png",
+          "image": "https://mediamsx.github.io/msx/icons/foss.png",
           "action": "link:http://ott.prog4food.eu.org/f/",
           "selection": {
             "action": "[update:content:info-text|update:content:info-shot]",
@@ -81,7 +81,7 @@
           "layout": "8,1,1,1",
           "offset": "0.73,0.40,-0.04,-0.04",
           "color": "rgba(0,0,0,0)",
-          "image": "https://i.postimg.cc/HsdhJZ8j/tv-team.png",
+          "image": "https://mediamsx.github.io/msx/icons/tvteam.png",
           "action": "menu:https://teamplay.city/msx/menu.json",
           "selection": {
             "action": "[update:content:info-text|update:content:info-shot]",
@@ -96,7 +96,7 @@
           "layout": "9,1,1,1",
           "offset": "0.94,0.40,-0.04,-0.04",
           "color": "rgba(0,0,0,0)",
-          "image": "https://i.postimg.cc/SKFW2Qmd/ua-kino1.png",
+          "image": "https://mediamsx.github.io/msx/icons/uakino.png",
           "action": "menu:http://uakino.ax/msx/menu.json",
           "selection": {
             "action": "[update:content:info-text|update:content:info-shot]",
@@ -111,7 +111,7 @@
           "layout": "5,2,1,1",
           "offset": "0.10,0.51,-0.04,-0.04",
           "color": "rgba(0,0,0,0)",
-          "image": "https://i.postimg.cc/Jh7mNZTq/filmix.png",
+          "image": "https://mediamsx.github.io/msx/icons/filmix.png",
           "action": "link:http://filmix.tv/",
           "selection": {
             "action": "[update:content:info-text|update:content:info-shot]",
@@ -126,7 +126,7 @@
           "layout": "6,2,1,1",
           "offset": "0.31,0.51,-0.04,-0.04",
           "color": "rgba(0,0,0,0)",
-          "image": "https://i.postimg.cc/W4bKPBNy/zona1.png",
+          "image": "https://mediamsx.github.io/msx/icons/zona.png",
           "action": "link:https://msx.zona.ms",
           "selection": {
             "action": "[update:content:info-text|update:content:info-shot]",
@@ -141,7 +141,7 @@
           "layout": "7,2,1,1",
           "offset": "0.52,0.51,-0.04,-0.04",
           "color": "rgba(0,0,0,0)",
-          "image": "https://i.postimg.cc/J0LkxpS9/atodo.png",
+          "image": "https://mediamsx.github.io/msx/icons/atodo.png",
           "action": "menu:request:interaction:menu@http://atodo.fun/fun.html",
           "selection": {
             "action": "[update:content:info-text|update:content:info-shot]",
@@ -156,7 +156,7 @@
           "layout": "8,2,1,1",
           "offset": "0.73,0.51,-0.04,-0.04",
           "color": "rgba(0,0,0,0)",
-          "image": "https://i.postimg.cc/rmgFkjh9/prisma1.png",
+          "image": "https://mediamsx.github.io/msx/icons/prisma.png",
           "action": "link:https://prisma.ws",
           "selection": {
             "action": "[update:content:info-text|update:content:info-shot]",
@@ -171,7 +171,7 @@
           "layout": "9,2,1,1",
           "offset": "0.94,0.51,-0.04,-0.04",
           "color": "rgba(0,0,0,0)",
-          "image": "https://i.postimg.cc/bJ8xYnnG/lift.png",
+          "image": "https://mediamsx.github.io/msx/icons/lift.png",
           "action": "menu:request:interaction:menu@http://lift3.ws/msx/",
           "selection": {
             "action": "[update:content:info-text|update:content:info-shot]",
@@ -186,7 +186,7 @@
           "layout": "5,3,1,1",
           "offset": "0.10,0.62,-0.04,-0.04",
           "color": "rgba(0,0,0,0)",
-          "image": "https://i.postimg.cc/3wDqXwMp/lampa3.png",
+          "image": "https://mediamsx.github.io/msx/icons/lampa.png",
           "action": "link:http://lampa.mx",
           "selection": {
             "action": "[update:content:info-text|update:content:info-shot]",
@@ -201,7 +201,7 @@
           "layout": "6,3,1,1",
           "offset": "0.31,0.62,-0.04,-0.04",
           "color": "rgba(0,0,0,0)",
-          "image": "https://i.postimg.cc/YChGDyfn/vi3000.png",
+          "image": "https://mediamsx.github.io/msx/icons/vi3000.png",
           "action": "content:http://vi3000.top/msx/start.json",
           "selection": {
             "action": "[update:content:info-text|update:content:info-shot]",
@@ -216,7 +216,7 @@
           "layout": "7,3,1,1",
           "offset": "0.52,0.62,-0.04,-0.04",
           "color": "rgba(0,0,0,0)",
-          "image": "https://i.postimg.cc/YCmJphPS/vokino2.png",
+          "image": "https://mediamsx.github.io/msx/icons/vokino.png",
           "action": "link:http://web.vokino.tv/",
           "selection": {
             "action": "[update:content:info-text|update:content:info-shot]",
@@ -231,7 +231,7 @@
           "layout": "8,3,1,1",
           "offset": "0.73,0.62,-0.04,-0.04",
           "color": "rgba(0,0,0,0)",
-          "image": "https://i.postimg.cc/3wr7XmLX/youtube.png",
+          "image": "https://mediamsx.github.io/msx/icons/youtube.png",
           "action": "link:https://www.youtube.com/tv",
           "selection": {
             "action": "[update:content:info-text|update:content:info-shot]",
@@ -246,7 +246,7 @@
           "layout": "9,3,1,1",
           "offset": "0.94,0.62,-0.04,-0.04",
           "color": "rgba(0,0,0,0)",
-          "image": "https://i.postimg.cc/s2fyY7nT/youtube-kids.png",
+          "image": "https://mediamsx.github.io/msx/icons/youtubekids.png",
           "action": "link:https://www.youtube.com/tv/kids",
           "selection": {
             "action": "[update:content:info-text|update:content:info-shot]",
@@ -261,7 +261,7 @@
           "layout": "5,4,1,1",
           "offset": "0.10,0.73,-0.04,-0.04",
           "color": "rgba(0,0,0,0)",
-          "image": "https://i.postimg.cc/522Q0YB2/deeplex1.png",
+          "image": "https://mediamsx.github.io/msx/icons/deeplex.png",
           "action": "link:http://smart.deeplex.cc/",
           "selection": {
             "action": "[update:content:info-text|update:content:info-shot]",
@@ -276,7 +276,7 @@
           "layout": "6,4,1,1",
           "offset": "0.31,0.73,-0.04,-0.04",
           "color": "rgba(0,0,0,0)",
-          "image": "https://i.postimg.cc/yxcw48QH/forkplayer.png",
+          "image": "https://mediamsx.github.io/msx/icons/forkplayer.png",
           "action": "link:http://browser.appfxml.com/",
           "selection": {
             "action": "[update:content:info-text|update:content:info-shot]",
@@ -291,7 +291,7 @@
           "layout": "7,4,1,1",
           "offset": "0.52,0.73,-0.04,-0.04",
           "color": "rgba(0,0,0,0)",
-          "image": "https://i.postimg.cc/bJLNhg6x/ottplayer1.png",
+          "image": "https://mediamsx.github.io/msx/icons/ottplayer.png",
           "action": "link:http://widget.ottplayer.tv",
           "selection": {
             "action": "[update:content:info-text|update:content:info-shot]",
@@ -306,7 +306,7 @@
           "layout": "8,4,1,1",
           "offset": "0.73,0.73,-0.04,-0.04",
           "color": "rgba(0,0,0,0)",
-          "image": "https://i.postimg.cc/W49nzcFW/akter-black.png",
+          "image": "https://mediamsx.github.io/msx/icons/akter.black.png",
           "action": "link:http://abvidaa.ru/",
           "selection": {
             "action": "[update:content:info-text|update:content:info-shot]",
@@ -321,7 +321,7 @@
           "layout": "9,4,1,1",
           "offset": "0.94,0.73,-0.04,-0.04",
           "color": "rgba(0,0,0,0)",
-          "image": "https://mediamsx.github.io/msx/icons/gets.tv.png",
+          "image": "https://mediamsx.github.io/msx/icons/getstv.png",
           "action": "panel:http://lg.getstv.ru/msx/msx.json",
           "selection": {
             "action": "[update:content:info-text|update:content:info-shot]",
@@ -365,7 +365,7 @@
           "layout": "5,1,1,1",
           "offset": "0.10,0.40,-0.04,-0.04",
           "color": "rgba(0,0,0,0)",
-          "image": "https://i.postimg.cc/TPV3qj66/shara.png",
+          "image": "https://mediamsx.github.io/msx/icons/sharaclub.png",
           "action": "link:https://sh.qqtv.in",
           "selection": {
             "action": "[update:content:info-text-2|update:content:info-shot-2]",
@@ -380,7 +380,7 @@
           "layout": "6,1,1,1",
           "offset": "0.31,0.40,-0.04,-0.04",
           "color": "rgba(0,0,0,0)",
-          "image": "https://i.postimg.cc/HL8M4Bwv/ICVA.png",
+          "image": "https://mediamsx.github.io/msx/icons/icva.png",
           "action": "link:http://icva.mx/",
           "selection": {
             "action": "[update:content:info-text-2|update:content:info-shot-2]",
@@ -395,7 +395,7 @@
           "layout": "7,1,1,1",
           "offset": "0.52,0.40,-0.04,-0.04",
           "color": "rgba(0,0,0,0)",
-          "image": "https://i.postimg.cc/kM068hFc/oneplayer.png",
+          "image": "https://mediamsx.github.io/msx/icons/oneplayer.png",
           "action": "link:http://webos.oneplayer.me",
           "selection": {
             "action": "[update:content:info-text-2|update:content:info-shot-2]",
@@ -410,7 +410,7 @@
           "layout": "8,1,1,1",
           "offset": "0.73,0.40,-0.04,-0.04",
           "color": "rgba(0,0,0,0)",
-          "image": "https://i.postimg.cc/PqZ6LFZ9/movielab.png",
+          "image": "https://mediamsx.github.io/msx/icons/movielab.png",
           "action": "menu:https://movielab.fun/msx/menu.json",
           "selection": {
             "action": "[update:content:info-text-2|update:content:info-shot-2]",
@@ -425,7 +425,7 @@
           "layout": "9,1,1,1",
           "offset": "0.94,0.40,-0.04,-0.04",
           "color": "rgba(0,0,0,0)",
-          "image": "https://i.postimg.cc/gjPrzrp7/xsmart.png",
+          "image": "https://mediamsx.github.io/msx/icons/xsmart.png",
           "action": "link:http://app.xsmart.tv",
           "selection": {
             "action": "[update:content:info-text-2|update:content:info-shot-2]",
@@ -436,16 +436,16 @@
           }
         },
         {
-          "id": "tutkino",
+          "id": "reelo",
           "layout": "5,2,1,1",
           "offset": "0.10,0.51,-0.04,-0.04",
           "color": "rgba(0,0,0,0)",
-          "image": "https://i.postimg.cc/7hprtWnC/TUTKINO1.png",
-          "action": "link:http://web.tutkino.fun",
+          "image": "https://mediamsx.github.io/msx/icons/reelo.png",
+          "action": "link:http://msx.reelo.ru/msx/app",
           "selection": {
             "action": "[update:content:info-text-2|update:content:info-shot-2]",
             "data": {
-              "text": "{txt:msx-white:TUTKINO}: веб-портал и медиа-виджет для Smart TV, предоставляющий структурированный каталог ссылок на фильмы, сериалы, мультфильмы и IPTV-каналы.",
+              "text": "{txt:msx-white:REELO}: Стриминговая платформа и мобильное приложение с премиальной библиотекой короткометражных кинематографических сериалов.",
               "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg=="
             }
           }
@@ -455,7 +455,7 @@
           "layout": "6,2,1,1",
           "offset": "0.31,0.51,-0.04,-0.04",
           "color": "rgba(0,0,0,0)",
-          "image": "https://i.postimg.cc/7LPyf7sv/kinoboom.png",
+          "image": "https://mediamsx.github.io/msx/icons/kinoboom.png",
           "action": "execute:info:extended:http://kb-team.club/msx/enter.php",
           "selection": {
             "action": "[update:content:info-text-2|update:content:info-shot-2]",
@@ -470,7 +470,7 @@
           "layout": "7,2,1,1",
           "offset": "0.52,0.51,-0.04,-0.04",
           "color": "rgba(0,0,0,0)",
-          "image": "https://i.postimg.cc/Qxn76k7J/KION.png",
+          "image": "https://mediamsx.github.io/msx/icons/kion.png",
           "action": "link:https://kion.ru/EPG/smarttvlg/index.html",
           "selection": {
             "action": "[update:content:info-text-2|update:content:info-shot-2]",
@@ -485,7 +485,7 @@
           "layout": "8,2,1,1",
           "offset": "0.73,0.51,-0.04,-0.04",
           "color": "rgba(0,0,0,0)",
-          "image": "https://i.postimg.cc/7YLsG9wv/KINOPOISK.png",
+          "image": "https://mediamsx.github.io/msx/icons/kinopoisk.png",
           "action": "link:https://smarttv-app.ott.yandex.ru",
           "selection": {
             "action": "[update:content:info-text-2|update:content:info-shot-2]",
@@ -500,7 +500,7 @@
           "layout": "9,2,1,1",
           "offset": "0.94,0.51,-0.04,-0.04",
           "color": "rgba(0,0,0,0)",
-          "image": "https://i.postimg.cc/rFpn0jcB/KINOPUB.png",
+          "image": "https://mediamsx.github.io/msx/icons/kinopub.png",
           "action": "link:http://kpms.cc/bootstrap.html",
           "selection": {
             "action": "[update:content:info-text-2|update:content:info-shot-2]",
@@ -515,7 +515,7 @@
           "layout": "5,3,1,1",
           "offset": "0.10,0.62,-0.04,-0.04",
           "color": "rgba(0,0,0,0)",
-          "image": "https://mediamsx.github.io/msx/slot.png",
+          "image": "https://mediamsx.github.io/msx/icons/tiktok.png",
           "action": "link:https://tv.tiktok.com/webos",
           "selection": {
             "action": "[update:content:info-text-2|update:content:info-shot-2]",
@@ -526,12 +526,12 @@
           }
         },
         {
-          "id": "reelo",
+          "id": "lampa.noname",
           "layout": "6,3,1,1",
           "offset": "0.31,0.62,-0.04,-0.04",
           "color": "rgba(0,0,0,0)",
-          "image": "https://mediamsx.github.io/msx/icons/reelo.png",
-          "action": "link:http://msx.reelo.ru/msx/app",
+          "image": "https://mediamsx.github.io/msx/icons/lampa.noname.png",
+          "action": "link: http://lam.nnmtv.pw/",
           "selection": {
             "action": "[update:content:info-text-2|update:content:info-shot-2]",
             "data": {
