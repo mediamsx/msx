@@ -321,7 +321,7 @@
           "layout": "9,4,1,1",
           "offset": "0.94,0.73,-0.04,-0.04",
           "color": "rgba(0,0,0,0)",
-          "image": "https://i.postimg.cc/0ytLD3L1/gets-tv1.png",
+          "image": "https://github.com/mediamsx/msx/icons/gets.tv.png",
           "action": "panel:http://lg.getstv.ru/msx/msx.json",
           "selection": {
             "action": "[update:content:info-text|update:content:info-shot]",
