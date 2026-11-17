@@ -51,7 +51,7 @@
           "layout": "6,1,1,1",
           "offset": "0.31,0.40,-0.04,-0.04",
           "color": "rgba(0,0,0,0)",
-          "image": "https://i.postimg.cc/CxvWktWT/ott-play1.png",
+          "image": "icons/ott.play.png",
           "action": "link:http://ott-play.com/f/",
           "selection": {
             "action": "[update:content:info-text|update:content:info-shot]",
