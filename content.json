@@ -2,7 +2,7 @@
   "name": "MediaBox Portal",
   "version": "1.8.5",
   "type": "pages",
-  "background": "https://i.postimg.cc/CMCcTFWj/background.jpg",
+  "background": "https://mediamsx.github.io/msx/background/background.jpg",
   "pages": [
     {
       "items": [
@@ -11,7 +11,7 @@
           "layout": "4,0,4,2",
           "offset": "0,-0.7,0,0",
           "color": "rgba(0,0,0,0)",
-          "image": "https://i.postimg.cc/QdJBL19x/logo-vertical.png",
+          "image": "https://mediamsx.github.io/msx/background/logo.png",
           "imageFiller": "fit"
         },
         {
