@@ -541,46 +541,46 @@
           }
         },
         {
-          "id": "empty-13",
+          "id": "stremio",
           "layout": "7,3,1,1",
           "offset": "0.52,0.62,-0.04,-0.04",
           "color": "rgba(0,0,0,0)",
-          "image": "https://mediamsx.github.io/msx/slot.png",
-          "action": "info:Свободное место",
+          "image": "https://mediamsx.github.io/msx/icons/stremio.png",
+          "action": "https://tv.strem.io/",
           "selection": {
             "action": "[update:content:info-text-2|update:content:info-shot-2]",
             "data": {
-              "text": "{txt:msx-white:НАЗВАНИЕ}: добавить описание",
+              "text": "{txt:msx-white:STREMIO}: добавить описание",
               "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg=="
             }
           }
         },
         {
-          "id": "empty-14",
+          "id": "peers",
           "layout": "8,3,1,1",
           "offset": "0.73,0.62,-0.04,-0.04",
           "color": "rgba(0,0,0,0)",
-          "image": "https://mediamsx.github.io/msx/slot.png",
-          "action": "info:Свободное место",
+          "image": "https://mediamsx.github.io/msx/icons/peerstv.png",
+          "action": "http://smarttv.peers.tv/operatv/1.2.0/index.html",
           "selection": {
             "action": "[update:content:info-text-2|update:content:info-shot-2]",
             "data": {
-              "text": "{txt:msx-white:НАЗВАНИЕ}: добавить описание",
+              "text": "{txt:msx-white:PEERS TV}: добавить описание",
               "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg=="
             }
           }
         },
         {
-          "id": "empty-15",
+          "id": "pxel",
           "layout": "9,3,1,1",
           "offset": "0.94,0.62,-0.04,-0.04",
           "color": "rgba(0,0,0,0)",
-          "image": "https://mediamsx.github.io/msx/slot.png",
-          "action": "info:Свободное место",
+          "image": "https://mediamsx.github.io/msx/icons/pxeltv.png",
+          "action": "http://app.pxel.tv/",
           "selection": {
             "action": "[update:content:info-text-2|update:content:info-shot-2]",
             "data": {
-              "text": "{txt:msx-white:НАЗВАНИЕ}: добавить описание",
+              "text": "{txt:msx-white:PXEL TV}: добавить описание",
               "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmNgYGBgAAAABQABGWkDzwAAAABJRU5ErkJggg=="
             }
           }
